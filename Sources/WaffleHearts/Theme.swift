@@ -242,7 +242,7 @@ private extension Node where Context == HTML.BodyContext {
                     .forEach(sectionIDs) { section in
                         .a(
                             .href(context.sections[section].path),
-                            .text(context.sections[section].title)
+                            .text(adjustedTitle(context.sections[section].title))
                         )
                     },
                     .form(
@@ -271,6 +271,13 @@ private extension Node where Context == HTML.BodyContext {
                 )
             )
         )
+    }
+
+    static func adjustedTitle(_ title: String) -> String {
+        guard title == "Howto" else {
+            return title
+        }
+        return "How To"
     }
 
     static func sectionItemList(

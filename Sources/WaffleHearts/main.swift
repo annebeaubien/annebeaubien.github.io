@@ -8,6 +8,7 @@ struct WaffleHearts: Website {
         case about
         case recipes
         case howTo
+        #error("populate 'how to' section")
         case posts
         case links
         case siteIndex = "Index"
