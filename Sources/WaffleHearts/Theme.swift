@@ -245,6 +245,10 @@ private extension Node where Context == HTML.BodyContext {
                             .text(adjustedTitle(context.sections[section].title))
                         )
                     },
+                    .a(
+                        .href("/tags"),
+                        .text("Tags")
+                    ),
                     .form(
                         .method(.get),
                         .id("search-form"),
@@ -284,18 +288,10 @@ private extension Node where Context == HTML.BodyContext {
         for section: Section<WaffleHearts>,
         with context: PublishingContext<WaffleHearts>
     ) -> Node {
-        switch section.id {
-        case .siteIndex:
-            return .itemList(
-                for: context.allItems(sortedBy: \.title),
-                   on: context.site
-            )
-        default:
-            return .itemList(
-                for: section.items,
-                   on: context.site
-            )
-        }
+        return .itemList(
+            for: section.items,
+               on: context.site
+        )
     }
 
     static func itemList<T: Website>(for items: [Item<T>], on site: T) -> Node {

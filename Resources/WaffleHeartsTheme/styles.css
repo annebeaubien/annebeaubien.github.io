@@ -52,7 +52,7 @@ input[type="submit"] {
 body {
     margin: 0;
     font-family: Palatino, "Palatino Linotype", "Book Antiqua3", Palatino, Georgia, serif;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 18px;
     color: #333333;
     background-color:#ceab81
@@ -86,7 +86,7 @@ hr {
 p {
     margin: 0 0 9px;
     font-family: Palatino, "Palatino Linotype", "Book Antiqua3", Palatino, Georgia, serif;
-    font-size: 13px;
+    font-size: 16px;
     line-height:18px
 }
 
@@ -104,7 +104,7 @@ h1 {
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 30px;
     line-height:36px
 }
 
@@ -128,12 +128,9 @@ fieldset {
 }
 
 label, input, select {
-    font-size: 13px;
+    font-size: 16px;
     font-weight: normal;
     line-height: 18px;
-    font-size: 13px;
-    font-weight: normal;
-    line-height:18px
 }
 
 input, select {
@@ -152,7 +149,7 @@ input, select {
     height: 18px;
     padding: 4px;
     margin-bottom: 9px;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 18px;
     color: #555555;
     border: 1px solid #cccccc;
@@ -323,7 +320,7 @@ input:focus:required:invalid:focus, select:focus:required:invalid:focus {
     * zoom:1;
     padding: 4px 10px 4px;
     margin-bottom: 0;
-    font-size: 13px;
+    font-size: 16px;
     line-height: 18px;
     color: #333333;
     text-align: center;

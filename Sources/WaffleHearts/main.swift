@@ -7,11 +7,9 @@ struct WaffleHearts: Website {
     enum SectionID: String, WebsiteSectionID {
         case about
         case recipes
-        case howTo
-        #error("populate 'how to' section")
+        case howto
         case posts
         case links
-        case siteIndex = "Index"
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
