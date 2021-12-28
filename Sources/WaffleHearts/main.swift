@@ -26,8 +26,10 @@ struct WaffleHearts: Website {
 // This will generate your website using the built-in Foundation theme:
 let wf = WaffleHearts()
 try wf
-    .publish(using: [
-        .generateHTML(withTheme: .basic),
-        .deploy(using: .gitHub("annebeaubien/annebeaubien.github.com", useSSH: true))
-    ])
+    .publish(
+        withTheme: .basic,
+        additionalSteps: [
+            .deploy(using: .gitHub("annebeaubien/annebeaubien.github.com", useSSH: true))
+        ]
+    )
 
