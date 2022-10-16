@@ -1,9 +1,10 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.5
 
 import PackageDescription
 
 let package = Package(
     name: "WaffleHearts",
+    platforms: [.macOS(.v12)],
     products: [
         .executable(
             name: "WaffleHearts",
@@ -11,10 +12,10 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0")
+        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.9.0")
     ],
     targets: [
-        .target(
+        .executableTarget(
             name: "WaffleHearts",
             dependencies: ["Publish"]
         )
