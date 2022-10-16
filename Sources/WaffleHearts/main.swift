@@ -23,13 +23,14 @@ struct WaffleHearts: Website {
     var imagePath: Path? { nil }
 }
 
-// This will generate your website using the built-in Foundation theme:
 let wf = WaffleHearts()
 try wf
     .publish(
         withTheme: .basic,
         additionalSteps: [
-            .deploy(using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true))
+            .deploy(
+                using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true)
+            )
         ]
     )
 
