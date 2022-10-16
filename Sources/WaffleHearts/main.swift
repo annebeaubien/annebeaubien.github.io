@@ -29,7 +29,7 @@ try wf
     .publish(
         withTheme: .basic,
         additionalSteps: [
-            .deploy(using: .gitHub("annebeaubien/annebeaubien.github.com", useSSH: true))
+            .deploy(using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true))
         ]
     )
 
