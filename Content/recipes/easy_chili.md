@@ -1,7 +1,6 @@
 ---
 title: Easy Chili
-image: 
-date: 2022-10-25
+date: 2022-10-25 17-45
 tags: dairy free, gluten free
 description: This chili has no chopping and is ready to eat in 30 minutes or less!
 ---

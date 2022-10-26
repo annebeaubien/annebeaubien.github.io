@@ -304,7 +304,7 @@ private extension Node where Context == HTML.BodyContext {
                             .a(
                                 .class("align-left"),
                                 .href(item.path),
-                                .img(.src(item.imagePath!))
+                                .img(.src(item.imagePath ?? ""))
                             )
                         ),
                         .h2(
