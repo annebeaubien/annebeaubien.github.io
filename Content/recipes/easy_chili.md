@@ -7,7 +7,7 @@ description: This chili has no chopping and is ready to eat in 30 minutes or les
 ---
 I make this chili every year for our annual Halloween Chili and cornbread cook-off and it is always a big hit. It is not spicy, so kids like it as much as the grown-ups. If you want it to be low carb, just leave out the beans, it tastes just as good without them.
 
-**Makes:** 12 Servings
+**Makes:** 12
 
 **Preparation time:** 0m  
 **Cooking time:** 20m  
@@ -42,3 +42,4 @@ Dutch oven, stockpot or 6 quart slow cooker
 1. Once the beef is browned, turn the heat down to simmer and add tomatoes, bay leaf, pinto beans, and black beans. Stir and decide if you want to add any of the vegetable broth. I usually add about half of the container. The chili is ready to eat but will taste better the longer you let it simmer. You will also need to add more vegetable broth the longer you let it simmer.
 1. Add salt and pepper to taste. 
 1. Enjoy!
+
