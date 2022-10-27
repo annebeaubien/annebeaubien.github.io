@@ -1,6 +1,7 @@
 import Foundation
 import Publish
 import Plot
+import CNAMEPublishPlugin
 
 // This type acts as the configuration for your website.
 struct WaffleHearts: Website {
@@ -28,9 +29,8 @@ try wf
     .publish(
         withTheme: .basic,
         additionalSteps: [
-            .deploy(
-                using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true)
-            )
+            .installPlugin(.generateCNAME(with: "wafflehearts.com", "www.wafflehearts.com")),
+            .deploy(using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true)),
         ]
     )
 

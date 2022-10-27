@@ -12,12 +12,16 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.9.0")
+        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.9.0"),
+        .package(name: "CNAMEPublishPlugin", url: "https://github.com/SwiftyGuerrero/CNAMEPublishPlugin", from: "0.2.0"),
     ],
     targets: [
         .executableTarget(
             name: "WaffleHearts",
-            dependencies: ["Publish"]
+            dependencies: [
+                "Publish",
+                "CNAMEPublishPlugin",
+            ]
         )
     ]
 )
