@@ -29,7 +29,7 @@ try wf
     .publish(
         withTheme: .basic,
         additionalSteps: [
-            .installPlugin(.generateCNAME(with: "wafflehearts.com", "www.wafflehearts.com")),
+            .installPlugin(.generateCNAME(with: "wafflehearts.com")),
             .deploy(using: .gitHub("annebeaubien/annebeaubien.github.io", useSSH: true)),
         ]
     )
