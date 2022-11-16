@@ -2,7 +2,7 @@
 title: Sungold Tomato Soup
 image: Images/sungold_tomato_soup.jpg
 date: 2020-10-10 04-47
-tags: Dairy Free, Gluten Free
+tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: If you grow Sungold cherry tomatoes then you know how prolific this little plant can be. This soup is a great way to use up a ton of those tiny orange tomatoes and it tastes so good with some grilled cheese sandwiches.
 ---
 The recipe really celebrates the deliciousness of homegrown Sungold tomatoes. If you have never grown them you should try! You can grow then from seed or starter plant. They are by far the easiest tomato I have ever grown and they produce a ton. Start by putting transplants deep into compost rich soil. Make sure they are evenly watered and that is about it. They will produce and produce and produce! We love these little cherry tomatoes so much that we stopped even trying to grow other kinds of cherry tomatoes so that we can have several Sungold plants instead. 

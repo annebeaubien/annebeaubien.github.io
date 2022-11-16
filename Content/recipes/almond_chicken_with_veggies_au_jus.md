@@ -7,11 +7,11 @@ description: Chicken and veggies sautéed with almond oil and served in their ow
 ---
 The title says it all. This is a flavorful, vegetable, chicken and almond stew that is served in its own juices. It can be served all year and is great for cold winter nights when you want something hearty but healthy. Likewise it’s light enough to be enjoyed spring or summer with a nice dry white wine. 
 
-If you do not have a rutabaga you can use a potato instead (as long as you are not making this dish Paleo).
-If following a gout diet, make sure to omit the mushrooms, do not use spinach as one of the greens, rather use kale or chard. Also, make sure that this is the only meat you eat the day you have it.
+If you do not have a rutabaga you can use a potato instead.
 
 
-**Makes:** 2
+
+**Makes:** 2 servings
 
 **Preparation time:** 10m  
 **Cooking time:** 10m  
@@ -21,7 +21,7 @@ If following a gout diet, make sure to omit the mushrooms, do not use spinach as
 
 **Ingredients:**
 
-- 2 shiitake mushrooms ((Gout diet: omit these))
+- 2 shiitake mushrooms 
 - 1/2 pound rutabaga
 - 1 large carrot
 - 1 large zucchini

@@ -5,12 +5,11 @@ date: 2019-02-10 00-04
 tags: Dairy Free, Gluten Free
 description: We have been living off this sausage soup for a couple of weeks now, not because I made too much, but because I keep making it!
 ---
-This mouthwatering stew is adapted from a recent Cooking Light Magazine recipe (see link at the bottom for original recipe). As usual I found the original did not have enough veggies and the preparation was too complicated. I have adapted it so that you can make the entire dish in one pot or in a slow cooker. 
+This mouthwatering stew can be made in one pot or in a slow cooker. 
 
 This is one of the larger recipes that I make, but that is because it’s so delicious you could eat it several days in a row! If that is not your kind of thing you can also use it to feed a party, or freeze portions and enjoy it later.
 
 If making this GLUTEN-FREE double check that your sausages are gluten-free. 
-If making this PALEO omit red-skinned potatoes and sub in another sweet potato or rutabaga.
 
 **Makes:** 6 - 10 servings 
 
@@ -53,4 +52,3 @@ If making this PALEO omit red-skinned potatoes and sub in another sweet potato o
 1. Stockpot: simmer on medium-low for 1 hour. Slow cook: high 4-5 hours, or low for 7-8 hours. It’s ready when the potatoes have softened and are starting to fall apart.
 
 
-Inspired by Cooking Light Magazine’s “Cabbage Soup with Andouille Sausage”. Original recipe here:  INLINE-LINK-START href="http://www.myrecipes.com/recipe/cabbage-soup-andouille-sausage">http://www.myrecipes.com/recipe/cabbage-soup-andouille-sausage INLINE-LINK-END

@@ -2,7 +2,7 @@
 title: Gløgg
 image: Images/gloegg.jpg
 date: 2020-12-04 02-39
-tags: 
+tags: Dairy Free, Gluten Free, Vegan, Vegetarian 
 description: This is a non-alcoholic version of mulled wine enjoyed in Norway during the winter holidays.
 ---
 Kids across Norway LOVE gløgg. It is a traditional Christmas drink and not the same thing as mulled wine. They have similar drinks in other countries but they are usually made with wine. In Norway gløgg is not alcoholic but you can add wine to it…and most grown-ups do.

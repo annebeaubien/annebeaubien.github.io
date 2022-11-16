@@ -5,9 +5,10 @@ date: 2020-10-19 19-53
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: A smooth, sweet-tart sauce that can be enjoyed on top of toast, in oatmeal or with yogurt.
 ---
-10 of each fruit is an estimate! This will vary depending on the size of fruit and size of your slow cooker. You want to use as many fruits as you can and fill it as full as possible because it will cook down.
 
-This recipe is super flexible! You want to have roughly equal amounts of apples and pears. Make sure to use cooking apples (no gala, or red delicious). My favorite apples to use are Wagener apples or Granny Smith apples. You can use almost any kind of pear. The only pears that I’ve had a poor result with are D’anjou. Otherwise, Warren pears are our top pick. This needs to cook for about 14 hours and at some point it needs to be puréed with either a stick blender or in a blender/food processor. You can purée it anytime after about 2 hours in to 2 hours from the end. 
+This recipe is super flexible! You want to have roughly equal amounts of apples and pears. 10 of each fruit is an estimate! This will vary depending on the size of fruit and size of your slow cooker. You want to use as many fruits as you can and fill it as full as possible because it will cook down.
+
+Make sure to use cooking apples (no gala, or red delicious). My favorite apples to use are Wagener apples, Hauer Pippin, Pink Lady or Granny Smith apples. You can use almost any kind of pear. The only pears that I’ve had a poor result with are D’anjou. Otherwise, Warren pears are our top pick. This needs to cook for about 14 hours and at some point it needs to be puréed with either a stick blender or in a blender/food processor. You can purée it anytime after about 2 hours in to 2 hours from the end. 
 
 The type of fruit you use and the ripeness of it will make this recipe more wet/dry.  If it is more dry it will need to cook for less time, if it is more wet it will need to cook for more time. Cook it until it is the consistency you want it to be. I’ve added 1 cup of water to the beginning of cooking to make sure that if you choose dry fruits they won’t burn.
 For example Granny Smith apples and Asian pears are dry, while Gravenstein apples and ripe Warren pears are juicy. It’s fun to play around with the different fruits to get the Apple Pear Butter that is perfect for you!

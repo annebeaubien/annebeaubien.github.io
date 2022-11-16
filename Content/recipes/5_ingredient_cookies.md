@@ -33,7 +33,7 @@ My toddler and I enjoy making these cookies together often. He mashes the banana
 
 **Instructions:**
 
-1. Preheat oven to 350ºF/180ºC. Prepare your baking sheet. (I like to use silicone baking mats).
+1. Preheat oven to 350ºF/180ºC. Prepare your baking sheet. 
 1. Mash the banana, then mix in the oats, egg and peanut butter. 
 1. Once the mixtures looks fairly homogenous, stir in the raisins/chocolate chips/nuts. 
 1. Spoon onto a baking sheet and cook in the oven for about 20 minutes. This depends on how big you made them. If you got 12 cookies then 20 minutes should be perfect. 

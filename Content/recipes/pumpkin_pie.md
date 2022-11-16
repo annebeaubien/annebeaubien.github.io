@@ -24,7 +24,7 @@ As soon as fall begins, I love taking a trip to the pumpkin patch and buying ton
 - pinch  salt
 - 15 ounces pumpkin puree
 - 15 ounces butternut squash puree
-- 13.5 ounces full-fat BPA-free coconut milk
+- 13.5 ounces full-fat canned coconut milk
 - 1 1/4 cups sugar
 - 4 organic eggs
 - 2 teaspoons ground cinnamon
