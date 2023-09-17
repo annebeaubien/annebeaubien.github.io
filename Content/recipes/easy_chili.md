@@ -1,7 +1,7 @@
 ---
 title: Easy Chili
 date: 2022-10-25 17-45
-tags: dairy free, gluten free
+tags: Dairy Free, Gluten Free
 description: This chili has no chopping and is ready to eat in 30 minutes or less!
 ---
 I make this chili every year for our annual Halloween Chili and cornbread cook-off and it is always a big hit. It is not spicy, so kids like it as much as the grown-ups. If you want it to be low carb, just leave out the beans, it tastes just as good without them.

@@ -2,7 +2,7 @@
 title: Garlic Lemon Quinoa with Artichokes and Asparagus
 image: Images/garlic_lemon_quinoa_with_artichokes_and_asparagus.jpg
 date: 2017-04-27 05-53
-tags: 
+tags: Gluten Free
 description: Here is another great summer salad that you can make ahead and chill until you are ready to eat it.
 ---
 This recipe is full of healthy proteins and tasty veggies. You can eat it right away or chill and eat later. I love having different salads like this pre-made for quick easy lunches or evening snack.
@@ -20,7 +20,7 @@ This recipe is full of healthy proteins and tasty veggies. You can eat it right 
 
 - 1/2 cup quinoa (rinsed and drained)
 - 1/4 cup dried green lentils
-- 2 cups water, stock or bone broth (divided - note: if making this gluten-free or nightshade-free make sure to check the ingredients on your stock)
+- 2 cups water, stock or bone broth (divided - note: if making this gluten-free check the ingredients on your stock)
 - 10 stems asparagus
 - 1 teaspoon butter
 - 1/2 teaspoon garlic powder

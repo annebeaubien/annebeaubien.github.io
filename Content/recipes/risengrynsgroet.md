@@ -2,12 +2,14 @@
 title: Risengrynsgrøt
 image: Images/risengrynsgroet.jpg
 date: 2020-12-30 02-37
-tags: 
+tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: This porridge is an important part of Norwegian Christmas culture.
 ---
 If you have never played a Christmas Eve game involving a pot of porridge and a marzipan pig then you need to read this recipe. Literally “rice grain porridge” this creamy, cinnamon sugar porridge is enjoyed mostly as lunch on Christmas Eve but also sometimes throughout the month at gatherings. To play the Christmas Eve porridge game you put a peeled almond into the serving pot. Then everyone takes a scoop and whoever gets the almond wins a marzipan pig! Make sure to make enough extra so that you can leave a bowl of porridge out for the nisse on the night of the 24th of December. Nisse are naughty elves that live in the woods and they cause mischief in your house if you don’t bribe them with a bowl of porridge. The nisse are also the ones in charge of washing and caring for the Christmas pig…pork belly is the main dish for many Norwegian Christmas dinners…which is probably why the marzipan is shaped like a pig.
 
 The way you eat this is just as important as the way you make it! Once you have your bowl of porridge in front of you, make a well in the center and put in a dollop of butter. Then cover the whole bowl with cinnamon sugar. As you begin to eat make sure to get a small piece of butter in each bite. 
+
+If making this recipe vegan or dairy-free be sure to use vegan and dairy-free milk and butter.
 
 
 **Makes:** 4-6 servings
@@ -22,10 +24,10 @@ The way you eat this is just as important as the way you make it! Once you have 
 
 - 1 cup arborio rice (risotto rice)
 - 2 cups water
-- 4 cups whole milk
+- 4 cups whole milk (or almond milk if making vegan)
 - 1 teaspoon fine salt
 - 1 vanilla bean
--  butter (1/2-1 tablespoon per person)
+-  butter (1/2-1 tablespoon per person, vegan butter if making vegan)
 -  cinnamon sugar (to taste)
 
 

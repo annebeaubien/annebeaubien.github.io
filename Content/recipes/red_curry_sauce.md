@@ -20,12 +20,11 @@ This recipe uses kefir lime leaves. You can buy them either dried or preserved i
 **Ingredients:**
 
 - 1 tablespoon chile powder
-- 1/4 teaspoon dried coriander
-- 1/4 teaspoon ground cumin
-- 1/8 teaspoon ground nutmeg
-- 1 garlic clove (minced)
--  zest of 1 lime (or 1/4 tsp lime juice)
 - 1/4 teaspoon freshly ground black pepper
+- 1/4 teaspoon dried parsley
+- 1/4 teaspoon ground cumin
+- 1/4 teaspoon ground nutmeg
+- 3 Tbsp lime juice plus zest of 1 lime 
 - 4-6 kaffir lime leaves
 - 2 cups unsweetened coconut milk
 -  coarse salt (to taste)
@@ -33,13 +32,13 @@ This recipe uses kefir lime leaves. You can buy them either dried or preserved i
 
 ---
 
-**Equipment:** 1 large flat-bottomed skillet with a tall lip, or a saucepan
+**Equipment:** 1 small sauce pan 
 
 ---
 
 **Instructions:**
 
-1. Whisk the coconut milk, chili powder, black pepper, coriander, cumin, nutmeg, garlic, lime leaves, lime juice or zest, and salt together in a large flat bottomed skillet or a saucepan and bring to a simmer over medium heat. 
-1. Simmer for 5-10 minutes depending on how soupy you like your red curry. 
-1. The sauce is ready to use. Either refrigerate to use later or continue to INLINE-LINK-START title="Red Curry" href="../../../recipes/red-curry" target="_blank">Red Curry INLINE-LINK-END for ingredient and cooking recommendations. 
+1. Whisk the coconut milk, chili powder, black pepper, parsley, cumin, nutmeg, lime juice and zest, lime leaves, and salt together in a small saucepan and bring to a simmer over medium heat. 
+1. Simmer for 10 minutes, make sure it doesn't boil over.
+1. The sauce is ready to use. Either refrigerate/freeze to use later or continue to [Red Curry](https://wafflehearts.com/recipes/red_curry) for ingredient and cooking recommendations. 
 
