@@ -42,11 +42,11 @@ I don’t know about you, but I don’t really like tofu. I prefer to eat vegeta
 
 **Instructions:**
 
-1. Make or buy the INLINE-LINK-START title="Pad Thai Sauce" href="../../../recipes/pad-thai-sauce" target="_blank">Pad Thai Sauce. Click here for recipe INLINE-LINK-END.
+1. Make or buy the [Pad Thai Sauce](https://wafflehearts.com/recipes/pad_thai_sauce/)
 1. Cook the brown rice noodles according to the package directions. Make sure you leave them slightly undercooked so that they don’t get mushy when cooking in the pad thai sauce later. When finished cooking drain and rinse in cold water.
-1. Heat the oil in a wok or skillet over medium heat. Then sauté the bell pepper, carrot, zucchini, Brussels sprouts, garlic, white parts of the green onion, and ginger for 8-12 minutes until the veggies start to release their juices. The cooking time will vary depending on how big you chopped everything. Remove the veggies to a large bowl temporarily while you cook the eggs.
+1. Heat the oil in a wok or skillet over medium heat. Then sauté the bell pepper, carrot, zucchini, Brussels sprouts, white parts of the green onion, and ginger for 8-12 minutes until the veggies soften. The cooking time will vary depending on how big you chopped everything. Remove the veggies to a large bowl temporarily while you cook the eggs.
 1. Crack the eggs into the wok then stir quickly to scramble. 
-1. Once the eggs are cooked through add the veggies back to the wok along with the cooked brown rice noodles and 1/4 cup of pad thai sauce to the pan. Toss the ingredients together while continuing to heat.
+1. Once the eggs are cooked through, add the veggies back to the wok along with the cooked brown rice noodles and add 1/4 cup of pad thai sauce to the pan. Toss the ingredients together while continuing to heat.
 1. After about a minute add a little more sauce and toss. Continue adding sauce in this way for the next 2-3 minutes until all the sauce is used up and the the noodles are cooked through. 
 1. Pour the contents of the wok into the bowl and fold in the bean sprouts and spinach. 
 1. Divide between two plates and garnish with the crushed peanuts, green parts of the spring onion and a lime wedge.
