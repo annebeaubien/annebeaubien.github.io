@@ -1,9 +1,9 @@
 ---
-title: Mom's Salsa
+title: Early Girl Salsa
 image: Images/moms_salsa.jpg
 date: 2012-11-06 00-12
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
-description: My mom is a chips-and-salsa lover who wants her salsa full of flavor but not hot. This mild salsa is her favorite because it uses red bell peppers instead of spicy jalapeños, however if you like yours a little spicier see the note on jalapeño use.
+description: This mild salsa is kid-friendly and full of flavor.
 ---
 Not all tomatoes are created equal. The best tomatoes to use for salsa are those with concentrated flavor, meaty flesh and not too juicy. If you can get your hands on dry-farmed Early Girl tomatoes those are the best because the flavor is really concentrated. If you are in the SF Bay area you can find them pretty easily. Otherwise I would recommend using plum tomatoes like Roma or San Marzano. 
 

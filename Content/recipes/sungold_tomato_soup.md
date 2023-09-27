@@ -25,6 +25,7 @@ I recommend making this soup to accompany grilled cheese sandwiches. I made rose
 - 1 sprig fresh oregano
 - 3 sprigs fresh thyme
 - 4  cups Sungold cherry tomatoes
+- Vegetable stock (optional)
 
 
 ---
@@ -40,6 +41,6 @@ I recommend making this soup to accompany grilled cheese sandwiches. I made rose
 1. Wash tomatoes then put them in a roasting dish or casserol and drizzle with olive oil and a pinch of salt.
 1. Roast them in the oven for about 30 minutes, or until they start to burst and brown. 
 1. Remove tomatoes from the oven and put them into a blender with the basil, oregano and thyme (no sticks, just leaves).
-1. Taste and decide if you want more herbs, salt or pepper, and if it is hot enough. At this point I like to put the soup on the stovetop for about 10 minutes. It mellows out the herbs if they are too strong and it thickens the soup but it is not really necessary if you are happy with the way it tastes from the blender. 
+1. Taste and decide if you want more herbs, salt or pepper, if it is hot enough, or if you want it thinner add some vegeatble stock. At this point I like to put the soup on the stovetop for about 10 minutes. It mellows out the herbs if they are too strong and it thickens the soup but it is not really necessary if you are happy with the way it tastes from the blender. 
 1. Now make some grilled cheese sandwiches!
 

@@ -5,7 +5,9 @@ date: 2014-05-16 09-09
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: The signature dish of Thailand gets a tofu-free vegetarian makeover with lots of extra veggies.
 ---
-I don’t know about you, but I don’t really like tofu. I prefer to eat vegetarian meals, especially when eating out but the problem is nearly every restaurant thinks that either cheese or tofu is what makes a dish vegetarian. Whenever the waiter asks if I would like chicken or shrimp, I always say, “No thank you”. To which they respond, “Oh so you would like tofu”….”um no”. Then when I ask if they can just use extra veggies instead of tofu, They get a confused look and mutter, “Oh, ok”. Really? Are vegetables so far removed from our minds that tofu seems more natural? That’s enough vegetarian ranting for now…please enjoy this tofu-free vegetarian pad thai and don’t be afraid to ask for extra veggies the next time you’re at a restaurant. 
+I don’t know about you, but I don’t really like tofu. I prefer to eat vegetarian meals, especially when eating out but the problem is nearly every restaurant thinks that either cheese or tofu is what makes a dish vegetarian. Whenever the waiter asks if I would like chicken or shrimp, I always say, “No thank you”. To which they respond, “Oh so you would like tofu”….”um no”. Then when I ask if I can just have extra veggies instead of tofu, They get a confused look and mutter, “Oh, ok”. Really? Are vegetables so far removed from our minds that tofu seems more natural? That’s enough vegetarian ranting for now…please enjoy this tofu-free vegetarian pad thai and don’t be afraid to ask for extra veggies the next time you’re at a restaurant. 
+
+An easy alternative to making this dish would be to just chop up 6 cups worth of whatever vegetables you have on hand, sauté them in avocado or olive oil until tender, then mix in the sauce and serve with rice. 
 
 **Makes:** 2-3 servings
 
@@ -23,7 +25,6 @@ I don’t know about you, but I don’t really like tofu. I prefer to eat vegeta
 - 1 carrot (peeled and julienned)
 - 1 zucchini (julienned)
 - 8 Brussels sprouts (remove the woody end and slice)
-- 5 garlic cloves (minced)
 - 3 spring onions (sliced, white and green parts separated)
 - 2 teaspoons freshly grated ginger
 - 3 eggs (omit if making this vegan)
