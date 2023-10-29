@@ -3,7 +3,7 @@ title: Green Curry Sauce
 image: Images/green_curry_paste.jpg
 date: 2012-04-22 01-14
 tags: Dairy Free, Vegan, Vegetarian, Gluten Free
-description: This paste is the basis for making a mild green curry. It is super easy to whip up in a blender and tastes much better than store bought. It will last 2 weeks if refrigerated. See my Thai Green Curry recipe for how to use this paste.
+description: This paste is the basis for making a mild green curry. It is super easy to whip up in a blender and tastes much better than store bought. It will last 4-5 days if refrigerated or you can freeze and use at a later date. See my Thai Green Curry recipe for how to use this paste.
 ---
 I bought a jar of green curry paste from the store and after looking at the ingredients realized that it was not vegetarian. I decided to look online to try to find a vegetarian green curry paste recipe but every thing I found had fish oil and shrimp paste in it. So here is my vegetarian version of green curry paste.
 
