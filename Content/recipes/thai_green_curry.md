@@ -17,9 +17,8 @@ The level of spiciness is this green curry depends on if you are making the past
 
 **Ingredients:**
 
-- 1 cup green curry paste
-- 1 1/2 cups unsweetened coconut milk
-- 2 kaffir lime leaves
+- 2 cups green curry sauce
+- 2 kaffir lime leaves (optional)
 - 3 cups chopped veggies (bite sized pieces)
 - 1 cup chopped chard (tough stems removed)
 - 1 cup cooked brown rice (can also use farro or barley if not making this gluten-free)
@@ -34,7 +33,7 @@ The level of spiciness is this green curry depends on if you are making the past
 
 **Instructions:**
 
-1. Pour the [Green Curry Paste](https://wafflehearts.com/recipes/green_curry_paste/), coconut milk, and kaffir lime leaves into a small saucepan. Bring to a simmer for 5-10 minutes, stirring occasionally to make sure it doesn't boil over.  
+1. Pour the [Green Curry Sauce](https://wafflehearts.com/recipes/green_curry_paste/), and kaffir lime leaves into a small saucepan. Bring to a simmer for 5-10 minutes, stirring occasionally to make sure it doesn't boil over.  
 1. In a separate large saucepan or dutch oven heat 2 tablespoons of olive oil over medium heat, then add the chopped veggies and sauté until they soften (about 5-10 minutes)
 1. Pour the green curry sauce over the veggies, add the chard, and cook for 1 more minute. 
 1. Serve warm with brown rice and a lime wedge. 

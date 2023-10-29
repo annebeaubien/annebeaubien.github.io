@@ -18,11 +18,10 @@ When I first made this recipe I was sure I was going to have to replace the chee
 
 **Ingredients:**
 
-- 2  cups fresh basil (packed)
+- 2-3  cups fresh basil (packed)
 - 1/4 cup water
 - 1/4 cup extra virgin olive oil
-- 1  garlic clove
-- 1 tablespoon pine nuts
+- 1/2 cup pecans
 - 1 tablespoon fresh lemon juice
 - 1/2 teaspoon fine salt
 
@@ -36,5 +35,5 @@ When I first made this recipe I was sure I was going to have to replace the chee
 **Instructions:**
 
 1. Place all of the ingredients into a blender and blend on high until smooth.
-1. Use as a sauce over gnocchi and veggies in my recipe:INLINE-LINK-START title="Pestoed Veggies and Gnocchi" href="../../../recipes/pestoed-veggies-and-gnocchi"> Pestoed Veggies and Gnocchi INLINE-LINK-END
+1. Use as a pizza sauce, bread stick dipping sauce, or  over gnocchi and veggies in my recipe [Pestoed Veggies and Gnocchi](https://wafflehearts.com/recipes/pestoed_veggies_and_gnocchi/)
 

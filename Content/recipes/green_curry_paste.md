@@ -1,5 +1,5 @@
 ---
-title: Green Curry Paste
+title: Green Curry Sauce
 image: Images/green_curry_paste.jpg
 date: 2012-04-22 01-14
 tags: Dairy Free, Vegan, Vegetarian, Gluten Free
@@ -24,12 +24,11 @@ A quick note about umeboshi paste. It is made from pickled Japanese plums (ume) 
 - 1  lemon grass stalk
 - 1/2 cup fresh parsley
 - 1/2 cup fresh basil
-- 1 tablespoon lime juice (1/2-1fresh lime)
+- 1/4 cup lime juice 
 - 2 teaspoons peeled, chopped ginger
-- 1/2  teaspoon anise seed
 - 1/2 teaspoon cumin
 - 1/2 teaspoon ground white pepper
-- 1/2  cup unsweetened coconut milk
+- 1 13.5 ounce can unsweetened coconut milk
 - 2 tablespoons umeboshi paste (or 1-2 tablespoons tamari)
 
 
@@ -41,7 +40,7 @@ A quick note about umeboshi paste. It is made from pickled Japanese plums (ume) 
 
 **Instructions:**
 
-1. Cut the root and greenery off the lemon grass, and peel off the outer layer. You should end up with a 3 inch long piece. Slice it into 1/4inch rings and place into the blender. 
-1. Place all of the other ingredients into the blender and puree until smooth. 
-1. See my [Green Curry](https://wafflehearts.com/recipes/thai_green_curry/) recipe for how to use this paste.
+1. Cut the root and greenery off the lemon grass, and peel off the outer layer. You should end up with a 3-5 inch long piece. Slice it into 1/2inch chunks and place into the blender. 
+1. Add all of the other ingredients into the blender and puree until smooth. 
+1. See my [Green Curry](https://wafflehearts.com/recipes/thai_green_curry/) recipe for how to use this Sauce.
 

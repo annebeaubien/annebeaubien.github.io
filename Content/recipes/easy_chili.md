@@ -23,8 +23,8 @@ I make this chili every year for our annual Halloween Chili and cornbread cook-o
 - 1 bay leaf
 - 3 cans pinto beans (optional)
 - 3 cans black beans (optional)
-- 1 32ounce container of vegetable broth (you may not need it all. I like
-- Kettle & Fire organic vegetable broth)
+- 16 ounces of beef bone broth
+- 1 32ounce container of vegetable broth (you may not need all of it)
 - Salt and pepper (to taste)
 
 ---
