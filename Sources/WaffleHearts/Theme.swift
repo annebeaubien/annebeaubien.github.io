@@ -90,7 +90,10 @@ private struct WaffleHeartsHTMLFactory: HTMLFactory {
                             .id("content"),
                             // <---- custom content start
                             .article(
-                                .img(.src(item.imagePath ?? "")),
+                                .wrapper(
+                                    .img(.src(item.imagePath ?? "")),
+                                    .id("itemImage")
+                                ),
                                 .h2("\(item.title)"),
                                 .contentBody(item.body),
                                 .tagList(for: item, on: context.site)
