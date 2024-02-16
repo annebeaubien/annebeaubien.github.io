@@ -34,6 +34,7 @@ As a mom with two kids who have opposite opinions on everything I am a big fan o
 ---
 
 **Instructions:**
+
 1. Heat a large saucepan over medium-high. Then brown the beef. 
 1. Remove the beef from a pan to a bowl, cover and keep warm. 
 1. Pour the vegetable stock and bone broth into the saucepan. Bring to a boil. 

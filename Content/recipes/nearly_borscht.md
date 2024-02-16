@@ -30,7 +30,7 @@ My own version of borscht is unique in that it uses pumpkin puree and Brussels s
 - 2 tablespoons lemon juice (1 lemon)
 - 3 tablespoons fresh dill
 -  salt and pepper (to taste)
-- 6 cups low-sodium vegetable stock (or part vegetable/stock part water)
+- 6 cups vegetable stock (or part vegetable/stock part water)
 
 
 ---
