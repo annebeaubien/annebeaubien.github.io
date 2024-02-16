@@ -735,13 +735,16 @@ a:hover, a:active {
     text-decoration: none;
 }
 
-
 #search-form > input {
     margin-top: 5px;
     margin-right: 10px;
 }
 
 /* [ON BIG SCREEN] */
+#itemImage > img {
+    width: 70%;
+}
+
 /* Wrapper */
 #hamnav {
     display: inline;
@@ -781,6 +784,9 @@ a:hover, a:active {
 
 /* [ON SMALL SCREENS] */
 @media screen and (max-width: 680px){
+    #itemImage > img {
+        width: 100%;
+    }
     /* Show Hamburger Icon */
     #hamnav label {
         display: inline-block;
