@@ -18,16 +18,17 @@ Who wants to cook a big meal in the days after Thanksgiving or Christmas? Not me
 
 **Ingredients:**
 
-- 1 pound split peas
-- 1 pound frozen California vegetable mix (cauliflower, carrot, broccoli - no need to defrost first)
+- 1 Tbsp olive oil
 - 1 cipollini onion (diced)
 - 1 garlic clove (minced)
-- 2 cups cooked turkey or chicken (chopped)
 - 6 cups water
 - 2 cups vegetable stock
+- 1 pound split peas
+- 1 pound frozen California vegetable mix (cauliflower, carrot, broccoli - no need to defrost first)
+- 2 cups cooked turkey or chicken (chopped)
 - 1 bay leaf
 - 1 teaspoon oregano
-- 1 teaspoon coarse salt
+- salt and pepper to taste
 
 
 ---
@@ -38,7 +39,9 @@ Who wants to cook a big meal in the days after Thanksgiving or Christmas? Not me
 
 **Instructions:**
 
-1. Place all of the ingredients into a stock pot or slow-cooker. 
+1. In a stock pot or slow-cooker heat the olive oil over medium to medium-high heat then add the diced onion. Sauté 3-5 minutes. 
+1. Then add the garlic and sauté another 1-2 minutes.
+1. Reduce heat and add the rest of the ingredients.  
 1. Stockpot: bring to a boil, then reduce heat and simmer for 1 hour.
 1. Slow cooker: high for 5-6 hours or low for 7-8 hours.
 1. The soup is ready when the split peas are soft. 

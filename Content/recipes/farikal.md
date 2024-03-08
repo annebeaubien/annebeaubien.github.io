@@ -1,6 +1,6 @@
 ---
-title: Fårikål 
-image: Images/farikal_.jpg
+title: Fårikål
+image: Images/farikal.jpg
 date: 2013-01-14 00-15
 tags: Dairy Free, Gluten Free
 description: Fårikål is a traditional Norwegian stew of lamb and cabbage that is commonly consumed throughout the year. In fact it is so well loved throughout the country that it is the first Norwegian recipe that my forlovede (fiancé) asked me to make for him.

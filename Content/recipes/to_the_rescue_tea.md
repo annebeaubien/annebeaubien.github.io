@@ -1,6 +1,6 @@
 ---
-title: To The Rescue Tea 
-image: Images/to_the_rescue_tea_.jpg
+title: To The Rescue Tea
+image: Images/to_the_rescue_tea.jpg
 date: 2013-03-06 17-55
 tags: Dairy Free, Gluten Free, Vegetarian
 description: Lemon’s antibacterial, antiviral and immune-boosting properties combined with green tea’s antioxidants, ginger’s nausea eliminating ability and cinnamon’s fever reducing powers make a tea that is designed to fight sickness and make you feel better, even if you aren’t sick.

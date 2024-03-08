@@ -1,6 +1,6 @@
 ---
 title: Horseradish Vinaigrette 
-image: Images/horseradish_vinaigrette_.jpg
+image: Images/horseradish_vinaigrette.jpg
 date: 2013-03-28 17-32
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: This horseradish vinaigrette works great as a salad dressing, atop roasted veggies or even as a sauce for meat.

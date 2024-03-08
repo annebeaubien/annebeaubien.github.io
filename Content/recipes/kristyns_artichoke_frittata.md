@@ -1,11 +1,11 @@
 ---
 title: Kristyn’s Artichoke Frittata
-image: Images/kristyn's_artichoke_frittata.jpg
+image: Images/kristyns_artichoke_frittata.jpg
 date: 2016-05-15 21-11
 tags: Gluten Free, Vegetarian
 description: Bold asparagus and artichoke flavor mingle with savory parmesan cheese in this tempting egg dish.…just try not to eat it all by yourself.
 ---
-I recently had the pleasure of meeting this frittata, I mean Kristyn, at a bachelorette weekend brunch. She served it alongside bacon, fruit salad and home-made cinnamon rolls (but I’m pretty sure I had 4 helpings of frittata and not much else). I immediately knew that I had to have the recipe. It was not only delicious but chock full of fresh seasonal veggies! Thank you Kristyn for introducing us, I have a feeling I’ll be seeing a lot of this tempting egg dish. I have already made it twice this week. 
+I recently had the pleasure of meeting this frittata, I mean Kristyn, at a bachelorette weekend brunch. She served it alongside bacon, fruit salad and home-made cinnamon rolls (but I’m pretty sure I had 4 helpings of frittata and not much else). I immediately knew that I had to have the recipe. It was not only delicious but chock full of fresh seasonal veggies! Thank you Kristyn for introducing us, I have a feeling I’ll be seeing a lot of this tempting dish. I have already made it twice this week. 
 
 Tip: This cooks pretty quickly so I like to have everything chopped and measured before I start cooking. 
 

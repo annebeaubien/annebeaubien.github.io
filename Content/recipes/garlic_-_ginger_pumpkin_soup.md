@@ -7,7 +7,7 @@ description: A fall inspired soup with a delightfully powerful garlic-ginger kic
 ---
 Imagine this: three moms each with one crazy toddler running around chasing each other, playing musical water bottles and making all manner of “music” using various kitchen utensils. These three moms decide to get together to cook, never in the kitchen at the same time. Each tossing in ingredients while taking turns wrangling toddlers. Well this crazy mixed-up soup is the result. I would never have put garlic and ginger together in pumpkin soup but someone else did, and I'm really really glad they did. It might be my favorite new flavor combination!
 
-When making this recipe remember to choose a cooking apple that retains its flavor after cooking. I’d recommend a Braburn, Jonagold, Golden Delicious, Granny Smith, Honeycrisp, Mutsu or Pippin. 
+When making this recipe remember to choose a cooking apple that retains its flavor after cooking. I’d recommend a Braburn, Jonagold, Golden Delicious, Granny Smith, Honeycrisp, Mutsu, Pippin or Pink Lady.
 
 I’ve tested this recipe with both a fairytale pumpkin and a Kabocha squash. Both worked out perfectly.
 
