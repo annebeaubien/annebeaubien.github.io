@@ -10,4 +10,5 @@
 for i in {1..10}; do find . -name "* $i" -exec rm -rf {} \; ; find . -name "* $i.*" -exec rm -rf {} \; ; done
 ```
 
+- run `publish run`, followed by
 - run `publish deploy`
