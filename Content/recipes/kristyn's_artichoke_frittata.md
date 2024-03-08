@@ -1,6 +1,6 @@
 ---
 title: Kristyn’s Artichoke Frittata
-image: Images/kristyn’s_artichoke_frittata.jpg
+image: Images/kristyn's_artichoke_frittata.jpg
 date: 2016-05-15 21-11
 tags: Gluten Free, Vegetarian
 description: Bold asparagus and artichoke flavor mingle with savory parmesan cheese in this tempting egg dish.…just try not to eat it all by yourself.
