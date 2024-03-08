@@ -1,6 +1,6 @@
 ---
 title: Jen’s Mango Pico
-image: Images/jen’s_mango_pico.jpg
+image: Images/jens_mango_pico.jpg
 date: 2015-04-20 04-52
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: Nothing says summer quite like juicy, red tomatoes, pineapple, mango and fresh herbs! Welcome summer with this awesome variation of pico de gallo.

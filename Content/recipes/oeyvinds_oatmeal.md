@@ -1,6 +1,6 @@
 ---
 title: Øyvind’s Oatmeal
-image: Images/oeyvind’s_oatmeal.jpg
+image: Images/oeyvinds_oatmeal.jpg
 date: 2012-08-29 19-21
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: We recently had some friends visiting from Norway and they introduced us to a way that Norwegians commonly eat oatmeal. It is quite different from the sweet, warm dish that Americans traditionally think of as oatmeal.

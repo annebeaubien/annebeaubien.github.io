@@ -1,6 +1,6 @@
 ---
 title: Grandma’s Favorite Veggie Soup
-image: Images/grandma’s_favorite_veggie_soup.jpg
+image: Images/grandmas_favorite_veggie_soup.jpg
 date: 2014-04-27 03-52
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: A family favorite, this vegan soup combines tons of veggies in a thick, mouthwatering broth that is made by puréeing some of the cooked soup.

@@ -1,6 +1,6 @@
 ---
 title: Kaja’s Carrot-Cake Muffins
-image: Images/kaja’s_carrot-cake_muffins.jpg
+image: Images/kajas_carrot-cake_muffins.jpg
 date: 2013-05-04 06-43
 tags: Dairy Free, Vegetarian
 description: These sweet little treats have no added sugar, no oil or butter and are made with whole-wheat pastry flour. Not to mention they are chock full of raisins, nuts and carrots!

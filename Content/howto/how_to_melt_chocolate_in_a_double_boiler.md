@@ -1,6 +1,6 @@
 ---
 title: How To: Melt Chocolate (in a double boiler)
-image: Images/how_to_melt_chocolate_(in_a_double_boiler).jpg
+image: Images/how_to_melt_chocolate_in_a_double_boiler.jpg
 date: 2012-06-11 04-39
 tags: Gluten Free, Vegetarian
 description: I will never forget the time I came home to a house full of random chocolate dipped items. My fiancé had decided to surprise me with chocolate dipped strawberries. However he eventually ran out of strawberries and still had plenty of chocolate so he went through the fridge and cupboards looking for anything else that he could coat in chocolate.

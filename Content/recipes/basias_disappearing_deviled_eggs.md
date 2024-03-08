@@ -1,6 +1,6 @@
 ---
 title: Basia’s Disappearing Deviled Eggs
-image: Images/basia’s_disappearing_deviled_eggs.jpg
+image: Images/basias_disappearing_deviled_eggs.jpg
 date: 2014-02-10 05-30
 tags: Dairy Free, Gluten Free, Vegetarian
 description: This recipe comes from a family friend who has been requested to make them for many get togethers. I finally got ahold of the recipe, managed to screw it up and people still loved it. It’s pretty much fool proof.

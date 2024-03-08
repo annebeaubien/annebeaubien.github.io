@@ -1,6 +1,6 @@
 ---
 title: Bison Bolognese 
-image: Images/bison_bolognese_.jpg
+image: Images/bison_bolognese.jpg
 date: 2014-02-03 05-20
 tags: Dairy Free, Gluten Free
 description: This veggie-loaded meat sauce tastes great and is a complete meal. Not only is this dish full of veggies, but bison contains significantly less calories and less fat than beef. If you are a meat-eater and haven’t tried bison yet, then you really should check it out!
