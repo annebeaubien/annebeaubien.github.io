@@ -6,8 +6,8 @@
 ### To update live website content
 - remove any sync duplicate files:
 ```
-find . -name "* 2" -exec rm {} \;
-find . -name "* 2.*" -exec rm {} \;
+
+for i in {1..10}; do find . -name "* $i" -exec rm -rf {} \; ; find . -name "* $i.*" -exec rm -rf {} \; ; done
 ```
 
 - run `publish deploy`
