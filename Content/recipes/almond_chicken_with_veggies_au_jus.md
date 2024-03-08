@@ -48,7 +48,7 @@ If you do not have a rutabaga you can use a potato instead.
 1. Heat 1 tablespoon almond oil in a large saucepan over medium high heat. Sauté the mushrooms, rutabaga, carrot and zucchini for 3-5 minutes. Stir frequently to keep them from burning. 
 1. Remove the veggies to a large bowl. 
 1. Add 1 tablespoon oil to the pan, heat over medium high and add the chicken. Brown the chicken on all sides (3-5 minutes).
-1. Stir in the stock, almonds, oregano and sauteed veggies. You want everything just barely covered by the stock.
+1. Stir in the stock, almonds, oregano and sautéed veggies. You want everything just barely covered by the stock.
 1. Cover and simmer on low until the rutabaga is tender and the chicken is cooked through (10-15 minutes). 
 1. Just before serving, stir in the greens and season with salt and pepper to taste.
 1. Enjoy!
