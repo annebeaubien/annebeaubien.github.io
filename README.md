@@ -12,3 +12,7 @@ for i in {1..10}; do find . -name "* $i" -exec rm -rf {} \; ; find . -name "* $i
 
 - run `publish run`, followed by
 - run `publish deploy`
+
+or
+
+- run `publish generate && publish deploy`
