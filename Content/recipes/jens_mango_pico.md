@@ -7,7 +7,7 @@ description: Nothing says summer quite like juicy, red tomatoes, pineapple, mang
 ---
 This sweet and spicy pico comes from the kitchen of my best friend Jennifer. It is one of her signature dishes and one that she often makes during the summer to go with her amazing chicken tacos (if we are lucky I’ll convince her to give us the chicken taco recipe as well).  
 
-When making this salsa, the diced pieces need to be about 1/4”. Remember it’s salsa, not salad. (See link at the bottom for dice vs mince instructions). Jennifer likes to use grape tomatoes in this recipe while her mom, Basia likes Romas. Jennifer also likes to use shallots which have a subtle garlic flavor. Traditionally pico de gallos are made with white onion. 
+When making this salsa, the diced pieces need to be about 1/4”. Remember it’s salsa, not salad. Jennifer likes to use grape tomatoes in this recipe while her mom, Basia likes Romas. Jennifer also likes to use shallots which have a subtle garlic flavor. Traditionally pico de gallos are made with white onion. 
 
  This recipe is best with a little spice. Jennifer has an affinity for shichimi tōgarashi, or “seven flavor chili pepper”, a popular Japanese spice. You should be able to find it at Asian supermarkets, or you can make your own (there are dozens of recipes online). Alternatively you can use crushed red pepper flakes. 
 
@@ -46,5 +46,3 @@ When making this salsa, the diced pieces need to be about 1/4”. Remember it’
 1. In a large bowl combine the tomatoes, pineapple, mango, shallot, jalapeño and cilantro. Then squeeze the lime juice on top and toss.
 1. Season to taste with salt, pepper and shichimi (if using). If it’s a little too spicy you can add some salt to tone it down. You can eat it right away or let the flavors meld together in the fridge for a few hours. 
 
-
-Links: INLINE-LINK-START title="How to understand mince, chop and dice." href="http://www.thekitchn.com/how-to-understand-mince-chop-and-dice-cooking-lessons-from-the-kitchn-188523" target="_blank">How to understand mince, chop and dice. INLINE-LINK-END

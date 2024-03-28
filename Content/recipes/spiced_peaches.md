@@ -37,5 +37,5 @@ Tip: try to use peaches that are a little firm. If they are too ripe you won't b
 1. Put the peaches in a saucepan with the lemon juice, water, cinnamon and clove. 
 1. Bring to a boil
 1. Turn down heat, cover and simmer for 10 minutes.
-1. Serve warm or refrigerate and save for later. 
+1. Serve warm or refridgerate and save for later. 
 

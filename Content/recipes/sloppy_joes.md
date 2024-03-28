@@ -48,10 +48,9 @@ If you are following a special diet, make sure to get the correct type of burger
 
 **Instructions:**
 
-1. If you have not done so already, cook the lentils. For detailed instructions see my post on INLINE-LINK-START title="How To: Cook Lentils" href="../../howtos/how-to-cook-lentils" target="_blank">How To: Cook Lentils INLINE-LINK-END
+1. If you have not done so already, cook the lentils. 
 1. Roughly chop the onion, carrot and bell pepper and place into a blender along with the dates, Worcestershire sauce, tomato sauce, tomato paste, nutritional yeast, salt, pepper, onion powder, garlic powder, red pepper flakes, oregano, rosemary, and anise. 
 1. Blend on high until smooth.
 1. Pour the sauce and the cooked lentils into a medium sized sauce pan and heat over medium for 5-10 minutes until the sauce isn’t runny anymore and the onion is cooked. 
 1. If using the option egg, crack the egg into the saucepan and quickly stir it into the sloppy joe mixture. Continue to stir until the egg is cooked through so you don't end up with egg lumps. 
-1. Serve either on burger buns or wrapped in iceberg lettuce. This recipe goes great with a side salad and INLINE-LINK-START href="../recipes/garlic-roasted-roots-spouts" target="_blank">roasted veggies INLINE-LINK-END or INLINE-LINK-START title="Roasted Mini Potatoes" href="../recipes/roasted-mini-potatoes" target="_blank">potatoes INLINE-LINK-END.
-
+1. Serve either on burger buns or wrapped in iceberg lettuce. 

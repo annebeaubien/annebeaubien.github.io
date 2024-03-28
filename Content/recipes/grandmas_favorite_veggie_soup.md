@@ -40,7 +40,7 @@ While visiting my grandma in Arizona a few months ago I made this soup for her a
 
 **Instructions:**
 
-1. Mince the carrot, zucchini and celery. You can either do this with a knife by hand, or in a blender. To do it in a blender chop the veggies into about 2-inch chunks then blend on a low setting until they are chopped up but not puréed. Work in batches of about 1 cup at a time as to not overtax the blender, nor liquify the veggies.
+1. Mince the carrot, zucchini and celery. You can either do this with a knife, or in a blender. To do it in a blender chop the veggies into about 2-inch chunks then blend on a low setting until they are chopped up but not puréed. Work in batches of about 1 cup at a time as to not overtax the blender, nor liquify the veggies.
 1. Place the minced carrot, zucchini and celery in a medium-sized saucepan along with the frozen spinach, black beans, vegetable stock and spices. 
 1. Bring to a boil then lower heat and simmer for 10 minutes. 
 1. Test the veggies for texture, if you are happy with the consistency then continue to the next step. Otherwise if you would like them softer you can cook for a few minutes longer. 
