@@ -26,11 +26,11 @@ I suggest finding lasagna noodles labelled "no boil". This will make it much eas
 - 1 pound ground lamb (vegetarian: leave this out)
 - 1/2  teaspoon coarse salt (e.g. maldon sea salt)
 - 1 teaspoon Italian seasoning 
-- 24 oz jar passata or pureed tomatoes
+- 24 oz jar pureed tomatoes
 - 4 cups diced mixed vegetables (use what is in season: asparagus/broccoli/carrots/cauliflower/Brussels sprouts/summer squash/zucchini)
 - 1-2 tablespoons olive oil
 - 2 cups grated ricotta salata. 
-- 1/4 cup grated Parmesan cheese
+- 1/4 cup grated Pecorino cheese
 - 1 cup shredded mozzarella (about 8 oz)
 - lasagna noodles (gluten-free: use gluten-free lasagna noodles and follow box instructions for pre-cooking)
 
@@ -43,22 +43,21 @@ I suggest finding lasagna noodles labelled "no boil". This will make it much eas
 **Instructions:**
 
 1. Preheat oven to 425ºF.
-1. Heat the saucepan over medium high. Add a few drops of water and when the water sizzles away it's ready. Add the **ground lamb**, **salt** and **Italian seasoning**. Cook until the lamb is browned. Reserve 1/2 cup **pureed tomatoes**, and add the rest to the saucepan. Turn down to simmer and partially cover until you are ready to use the sauce.
+1. Heat the saucepan over medium high. Add a few drops of water and when the water sizzles away it's ready. Add the **ground lamb**, **salt** and **Italian seasoning**. Cook until the lamb is browned. Add the **pureed tomatoes** to the saucepan. Turn down to simmer and partially cover until you are ready to use the sauce.
 1. Meanwhile wash and chop the **vegetables** into bite-sized pieces. Toss them in a bowl with 1-2 Tbsp **olive oil**. Then pour them onto a parchment paper lined baking sheet and roast for 20-30 minutes. Dense things like carrots need more time and less dense things like broccoli need less time. They are ready when they start to brown on the edges. 
 1. Assemble the layers of the lasagna. Spread the ingredients of each layer out evenly. Starting from the bottom up the layers are:
-1. 1/2 cup pureed tomatoes
-1. single layer of lasagna noodles 
-1. meat mixture
-1. single layer of lasagna noodles 
 
-1. 
-1. single layer of lasagna noodles
-1. cottage cheese
-1. parmesan cheese
-1. greens
-1. single layer of lasagna noodles
-1. 1 cup pasta sauce
-1. shredded mozzarella
-1. Check the your lasagna noodle box for baking times as this will vary, but for the most part I  always bake the lasagna uncovered for 40 minutes, then remove from the oven and let rest for 10 minutes before serving, and this always works.
-1. Serve hot accompanied by a Caesar salad and a glass of your favorite wine. You’ve earned it.
+	- a thin layer **meat sauce**
+	- single layer of **lasagna noodles** 
+	- most of the **meat sauce** (save enough for a thin later on the top
+	- single layer of **lasagna noodles **
+	- all of the **roasted vegetables**
+	- all of the **ricotta salata** and **Pecorino**
+	- single layer of **lasagna noodles**
+	- the rest of the **meat sauce**
+	- all of the **mozzarella**
+
+
+1. Check the your lasagna noodle box for baking times as this will vary, but for the most part I  always bake the lasagna covered for 30 minutes, then remove from the cover and put back into the oven for 10 minutes until the cheese on top starts to brown. Remove from the oven and let rest for 10 minutes before serving.
+1. Serve hot with a glass of your favorite wine. You’ve earned it.
 
