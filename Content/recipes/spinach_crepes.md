@@ -5,7 +5,7 @@ date: 2013-01-28 21-56
 tags: Dairy Free, Vegetarian
 description: Love, love, love these crepes! They are super easy to make and help you get your daily dose of leafy green vegetables.
 ---
-Crepes are so versatile, they can be a meal on their own or part of a larger menu. They can hold countless different fillings, or be eating by themselves. They can even be sweet, savory, or something in between. At our house we usually enjoy these spinach crepes as a main dish. I like filling them with cottage cheese, avocado, beans and roasted red peppers while my fiancé prefers to have them breakfast-style with eggs, bacon, avocado and cheese. You could also have these as a fun side dish to main meal and fill them with roasted veggies and feta.
+Crepes are so versatile, they can be a meal on their own or part of a larger menu. They can hold countless different fillings, or be eaten by themselves. They can even be sweet, savory, or something in between. At our house we usually enjoy these spinach crepes as a main dish. I like filling them with cottage cheese, avocado, beans and roasted red peppers while my fiancé prefers to have them breakfast-style with eggs, bacon, avocado and cheese. You could also have these as a fun side dish to main meal and fill them with roasted veggies and feta.
 
 I prefer to have lots of small crepes so I make these with an 8” non-stick skillet. If you want to have larger crepes just use a larger pan, but you will end up with less crepes. I find that most people will eat 3-4 small crepes as an entree, or 1-2 as an appetizer. 
 
@@ -24,13 +24,15 @@ Cooking time for these is about 2 minutes per crepe, so if you are making 8 smal
 
 **Ingredients:**
 
-- 5 ounces unsweetened organic soy milk
-- 4  ounces frozen spinach (by weight - about 1 cup)
+- 5 ounces milk (or milk alternative)
+- 4  ounces frozen spinach (about 1 cup)
 - 2 large organic eggs
 - 2 ounces flour (about 1/2 cup)
--  crepe filling of your choice (optional)
-- 1/2 teaspoon coarse salt (e.g. kosher salt)
+- 2 Tablespoons melted butter
 - 1/2 teaspoon dried oregano
+- 1/2 teaspoon coarse salt (e.g. kosher salt)
+- crepe filling of your choice (optional)
+
 
 
 ---
@@ -41,7 +43,7 @@ Cooking time for these is about 2 minutes per crepe, so if you are making 8 smal
 
 **Instructions:**
 
-1. Place spinach, soy milk, eggs, butter, flour, oregano and salt into a blender and puree until smooth.
+1. Place **milk**, **spinach**, **eggs**, **flour**, **butter**, **oregano** and **salt** into a blender and puree until smooth (about 60 seconds)
 1. Let the batter sit for at least 30 minutes so the flour can swell. You can let it sit over night, just make sure to put it into the fridge. If you let it sit for longer you may need to add some liquid to loosen the better up a bit. You want it fairly loose, so just add a teaspoon of water at a time to reach the desired consistency.
 1. When ready to cook, heat a skillet over medium heat. Then grab the handle of your skillet in one hand and your batter in the other hand. While pouring the batter into the pan you want to simultaneously rock the pan around so the batter covers the bottom of the pan in a thin layer. Pour any excess batter back into the blender and set the pan on the hob. 
 1. Your first crepe is always a test crepe to make sure the batter is the right thickness and that the pan is the right temperature. If you had to pour excess batter back into the pan, just use a spatula to cut off any irregularity that makes the crepe not circular. 

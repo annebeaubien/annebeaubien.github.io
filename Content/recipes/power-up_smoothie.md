@@ -37,5 +37,3 @@ With this recipe you can use either fresh or frozen fruit, wheatgrass and spinac
 1. Drink.
 1. Power up! 
 
-
-INLINE-LINK-START title="Growing Wheatgrass at Home" href="../../posts/growing-wheatgrass-at-home" target="_blank">Growing Wheatgrass at Home INLINE-LINK-END INLINE-LINK-START title="How To: Make Wheatgrass Juice" href="../../howtos/how-to-make-wheatgrass-juice" target="_blank">How To: Make Wheatgrass Juice INLINE-LINK-END

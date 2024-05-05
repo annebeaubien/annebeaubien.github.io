@@ -24,7 +24,7 @@ Waffle Hearts specializes in special diets. Please have a look at the special di
 
 I am a healthy eating enthusiast and a self-taught home cook. I like to experiment with food. Sometimes those experiments work out and make it on the website…and sometimes they don’t. I spend all of my time thinking about food, grocery shopping, cooking, photographing my creations, and of course - eating. I think it is safe to say that I am addicted to food.
 
-My background and education is in Archaeology. I have a B.A. in Anthropology and a M.A. in Maritime Archaeology. I spent 6 years excavating throughout Virginia, Washington D.C. and Maryland. Now I live in Silicon Valley with my wonderful Norwegian husband and I cook full time. 
+My background and education is in Archaeology. I have a B.A. in Anthropology and a M.A. in Maritime Archaeology. I spent 6 years excavating throughout Virginia, Washington D.C. and Maryland. Now I live in Silicon Valley with my Norwegian husband, two kids and I cook full time. 
   
   
   

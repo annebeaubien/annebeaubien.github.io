@@ -20,7 +20,7 @@ If you cannot find an 8 ounce jar of roasted red peppers just use a larger jar a
 **Ingredients:**
 
 - 2 tablespoons lemon juice (preferably freshly squeezed)
-- 3/4 cup almonds
+- 3/4 cup almonds or cashews
 - 1/2 cup nutritional yeast
 - 1  tablespoon dried minced onion (or 1 teaspoon onion powder)
 - 1 teaspoon coarse salt (e.g. kosher salt)
@@ -41,4 +41,7 @@ If you cannot find an 8 ounce jar of roasted red peppers just use a larger jar a
 1. Use as you would any regular cheese sauce. 
 
 
-There are several similar cheese-less sauce recipes out there. This one was adapted from two others, the "Not-so cheese sauce" from the Vitamix cookbook and the INLINE-LINK-START href="http://blog.wholefoodsmarket.com/2010/10/engine-2s-macaroni-not-cheese/" target="_blank">"Macaroni and Not Cheese" INLINE-LINK-END recipe from the Engine 2 diet. I found both of these recipes lacking in flavor and too many unnecessary steps so I came up with a simplified recipe with different ingredient ratios. 
+
+There are several similar cheese-less sauce recipes out there. This one was adapted from two others, the "Not-so cheese sauce" from the Vitamix cookbook and the "Macaroni and Not Cheese" recipe from the Engine 2 diet: http://blog.wholefoodsmarket.com/2010/10/engine-2s-macaroni-not-cheese/
+
+I found both of these recipes lacking in flavor and too many unnecessary steps so I came up with a simplified recipe with different ingredient ratios. 
