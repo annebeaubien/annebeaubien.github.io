@@ -49,7 +49,7 @@ Make sure to plan plenty of time for this dish to cook and cool. It is a very ea
 1. Place the eggplant onto a parchment paper lined baking sheet and bake for 10 minutes. Then flip the slices over and bake for another 10 minutes.
 1. Remove eggplant from the oven and begin to layer the ingredients in your baking dish in the following order:
 1. 1/4 - 1/2 cup sauce (enough to cover the bottom of the dish in a thin layer)
-1. 1/3 of the eggplant slices (they should fit snugly but not overlap, cut to fit in necessary)
+1. 1/3 of the eggplant slices (they should fit snugly but not overlap, cut to fit if necessary)
 1. 1/2 the basil
 1. 1/2 cup sauce
 1. 1 tbsp Pecorino Romano

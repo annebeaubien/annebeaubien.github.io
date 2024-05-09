@@ -39,10 +39,10 @@ You can use any kind of pasta for this recipe. If you don’t have a kitchen sca
 
 **Instructions:**
 
-1. Cook the pasta according to the package directions.
-1. About 3 minutes before the pasta is finished cooking, toss the peas and broccoli into the boiling water with pasta. Then strain them all together.
-1. Cut or tear the salmon into bite-sized pieces.
-1. In a large bowl mix the pasta, peas, broccoli, salmon and Greek yogurt together. 
-1. Sprinkle in the dill, then toss once more and season to taste with salt and pepper.
+1. Cook the **pasta** according to the package directions.
+1. About 3 minutes before the pasta is finished cooking, toss the **peas** and **broccoli** into the boiling water with pasta. Then strain them all together.
+1. Cut or tear the **salmon** into bite-sized pieces.
+1. In a large bowl mix the **pasta**, **peas**, **broccoli**, **salmon** and **Greek yogurt** together. 
+1. Sprinkle in the **dill**, then toss once more and season to taste with **salt** and **pepper**.
 1. Serve warm or refrigerate for a few days and have as a cold salad on a warm day.
 

@@ -35,11 +35,3 @@ You can either acquire wheatgrass either at your local health food store, or far
 1. Place the wheatgrass into a blender in equal parts i.e. 1 cup wheatgrass/1 cup water, or 1/2 cup wheatgrass/1/2 cup water, etc. Blend on high until all of the wheatgrass is well blended.
 1. Place a nut milk bag or cheese cloth over a cup or bowl the appropriate size for the amount of juice you made. Then slowly pour the liquid through the bag into the container. This strains off all of the indigestible wheatgrass fibers. (If you are putting the wheatgrass into a smoothie you can skip this step. The fibers are indigestible - similar to the casing on corn kernels - but they not bad for you).
 1. Immediately drink or freeze. 
-
-
-Wheatgrass recipes: 1. INLINE-LINK-START title="Wheatgrass Lemon Sparkler" href="../../../recipes/wheatgrass-lemon-sparkler" target="_blank">Wheatgrass Lemon Sparkler INLINE-LINK-END
-1. INLINE-LINK-START title="Power-Up Smoothie" href="../../../recipes/power-up-smoothie" target="_blank">Power-Up Smoothie INLINE-LINK-END
-1. check back for more recipes soon.
-
-
-INLINE-LINK-START title="Growing wheatgrass at home" href="../../posts/growing-wheatgrass-at-home" target="_blank">Click here to find out how to grow your own wheatgrass. INLINE-LINK-END

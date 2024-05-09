@@ -45,11 +45,11 @@ Paleo: serve with steamed veggies, (not rice, pasta or bread)
 **Instructions:**
 
 1. If serving this dish with pasta or rice you will want to have that started already.
-1. Heat the olive oil in a skillet over medium heat.
-1. Sauté the garlic and oregano over medium heat until the garlic starts to brown (3-5minutes).
-1. Add the shrimp, then the wine and capers. 
-1. Cook for 3-4 minutes on one side them flip them over halfway through cooking to make sure both sides are evenly done. 
-1. Once the shrimp are cooked through, remove them from the heat and add the chopped parsley. 
-1. Place the greens in a large bowl then tip the entire contents of the skillet onto the greens. You want to use hearty greens that will stand up to the heat. I prefer a mixture of baby spinach, baby kale and baby chard.
+1. Heat the **olive oil** in a skillet over medium heat.
+1. Sauté the **garlic** and **oregano** over medium heat until the garlic starts to brown (3-5minutes).
+1. Add the **shrimp**, then the **wine** and **capers**. 
+1. Cook for 3-4 minutes on one side then flip them over halfway through cooking to make sure both sides are evenly done. 
+1. Once the shrimp are cooked through, remove them from the heat and add the chopped **parsley**. 
+1. Place the **greens** in a large bowl then tip the entire contents of the skillet onto the greens. You want to use hearty greens that will stand up to the heat. I prefer a mixture of baby spinach, baby kale and baby chard.
 1. Toss the greens and shrimp together until well mixed then serve warm with pasta, rice, or crusty bread.
 

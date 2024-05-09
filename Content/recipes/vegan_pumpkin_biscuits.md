@@ -36,7 +36,7 @@ This recipe is formulated for canned pumpkin purée. Home-made purée tends to h
 **Instructions:**
 
 1. Preheat oven to 425ºF/220ºC. Line a large baking sheet with parchment paper or silicone baking mat.
-1. In a large bowl, combine the whole-wheat pastry flour, baking powder, salt and any dried spices you decide to use (e.g. sage and rosemary).  Stir together with a fork, then add the pumpkin purée and milk substitute. Continue to stir to form the dough. It should be quite thick. Feel free to use your hands to kneed the dough until all of the dry flour is incorporated. Be careful not to over mix, stop as soon as all the flour is mixed in.
+1. In a large bowl, combine the **whole-wheat pastry flour**, **baking powder**, **salt** and any dried spices you decide to use (e.g. sage and rosemary).  Stir together with a fork, then add the **pumpkin purée** and **milk substitute**. Continue to stir to form the dough. It should be quite thick. Feel free to use your hands to kneed the dough until all of the dry flour is incorporated. Be careful not to over mix, stop as soon as all the flour is mixed in.
 1. Using two table spoons you are going to drop the biscuits onto a baking sheet leaving about 1” between them. Use the first spoon to scoop up some of the dough (about the size of a golf ball), then use the second spoon to scrape the dough onto the baking sheet. Continue until you have used up all of the dough. You should end up with 12 biscuits.
 1. Bake for 15 minutes until golden brown.
 1. These are best when eaten right away but can be stored for a few days in the refrigerator. I recommend popping a couple in the oven for a few minutes to reheat them before eating.

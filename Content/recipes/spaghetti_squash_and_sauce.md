@@ -20,20 +20,20 @@ As someone who normally cooks for only 1 or 2 people I am used to looking for in
 
 **Ingredients:**
 
+- 1 small spaghetti squash (1 pound or less)
 - 2  cups diced tomatoes
 - 2  cups frozen spinach (no need to defrost)
-- 1 small spaghetti squash (1 pound or less)
-- 1 1/2 cups water
-- 1/2 teaspoon paprika
--  fresh parsley  (garnish)
 - 2 cups chopped vegetables (any mixture of zucchini, broccoli, cauliflower, carrots, Brussels sprouts)
+- 1 1/2 cups water
 - 1/2 cup dry green lentils
 - 1 teaspoons dried oregano
 - 1 teaspoon dried red pepper flakes (optional)
--  salt and pepper (to taste)
 - 1 teaspoon dried minced onion
 - 1 teaspoon garlic granules
 - 1/2 teaspoon dried rosemary
+- 1/2 teaspoon paprika
+-  fresh parsley  (garnish)
+-  salt and pepper (to taste)
 
 
 ---
@@ -44,9 +44,9 @@ As someone who normally cooks for only 1 or 2 people I am used to looking for in
 
 **Instructions:**
 
-1. Preheat the oven to 425ºF/220ºC. Chop the ends off the spaghetti squash and cut in half lengthwise. Place the two halves cut side down in a baking dish and cook until you can easily pierce the side with a fork. This should take about 30 minutes. For more detailed instructions see: INLINE-LINK-START title="How To: Cook Spaghetti Squash" href="../../../howtos/how-to-cook-spaghetti-squash" target="_blank">How To: Cook Spaghetti Squash INLINE-LINK-END.
-1. Place the chopped vegetables, water, spinach, lentils, dried oregano, dried red pepper flakes, dried minced onion, garlic powder, rosemary and paprika into a large saucepan. Cover and bring to a boil. Then reduce heat and simmer until the lentils are tender. This should take about 30 minutes. Make sure to keep an eye on the water level so it doesn’t burn. The vegetables will give off some water as the cook down and the lentils will absorb a lot of the water so it should work out well. If it is starting to look too dry and the lentils aren’t done yet just add more water 1/4 cup at a time. If the lentils are finished cooking and the sauce is too watery, just remove the lid and turn up the heat to boil off the extra liquid. 
-1. Salt and pepper to taste.
+1. Preheat the oven to 425ºF/220ºC. Chop the ends off the **spaghetti squash** and cut in half lengthwise. Place the two halves cut side down in a baking dish and cook until you can easily pierce the side with a fork. This should take about 30 minutes. 
+1. Place the **diced tomatoes**, **frozen spinach**, **chopped vegetables**, **water**, **lentils**, **dried oregano**, dried **red pepper flakes**, **dried minced onion**, **garlic powder**, **rosemary** and **paprika** into a large saucepan. Cover and bring to a boil. Then reduce heat and simmer until the lentils are tender. This should take about 30 minutes. Make sure to keep an eye on the water level so it doesn’t burn. The vegetables will give off some water as the cook down and the lentils will absorb a lot of the water so it should work out well. If it is starting to look too dry and the lentils aren’t done yet just add more water 1/4 cup at a time. If the lentils are finished cooking and the sauce is too watery, just remove the lid and turn up the heat to boil off the extra liquid. 
+1. **Salt** and **pepper** to taste.
 1. Remove the squash from the oven and let cool for a few minutes. Then use a fork to scrape out the “spaghetti” by dragging it along the cut surface of the squash. You will notice that the flesh starts to form into strings. Continue until you have removed all of it. Discard the shell. 
-1. Serve the sauce atop the squash and garnish with fresh parsley.
+1. Serve the sauce atop the squash and garnish with fresh **parsley**.
 

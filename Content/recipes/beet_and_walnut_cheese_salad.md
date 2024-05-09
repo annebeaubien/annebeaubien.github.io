@@ -40,12 +40,12 @@ Note: Some blenders/food processors cannot process small amounts like the walnut
 **Instructions:**
 
 1. Preheat the oven to 425ºF/220ºC.
-1. Wash the beet and wrap it in aluminum foil. Roast the beet for 1 hour, then remove from the oven and let it cool in the foil for 30 minutes. For more detailed instructions see my post on INLINE-LINK-START title="How To: Roast Beets" href="../../../howtos/how-to-roast-beets" target="_blank">How To: Roast Beets INLINE-LINK-END.
-1. Meanwhile make the walnut cheese. Place 1/2 cup walnuts, 1/2 cup water and 1/4 teaspoon salt into a blender/food processor and puree until smooth. 
-1. Zest the orange and put zest aside. You will use this to garnish the salad just before serving.
-1. Cut the orange in half and squeeze the juice into a small bowl, add 1 tablespoon apple cider vinegar to the orange juice. 
+1. Wash the **beet** and wrap it in aluminum foil. Roast the beet for 1 hour, then remove from the oven and let it cool in the foil for 30 minutes. For more detailed instructions see my post on How To: Roast Beets. 
+1. Meanwhile make the walnut cheese. Place 1/2 cup **walnuts**, 1/2 cup **water** and 1/4 teaspoon **salt** into a blender/food processor and puree until smooth. 
+1. Zest the **orange** and put zest aside. You will use this to garnish the salad just before serving.
+1. Cut the orange in half and squeeze the juice into a small bowl, add 1 tablespoon **apple cider vinegar** to the orange juice. 
 1. Once the beet is cool enough to hold without burning yourself, remove the skin by rubbing it off with your fingers (use gloves if you don’t want pink hands for the next few days). Chop the beet into bite-sized cubes and immerse the cubes in the orange juice/vinegar mixture. If there’s not enough liquid to cover the beet just add a little more vinegar until the pieces are all submerged. Let the beets marinate while you prepare the rest of the salad.
-1. Toast the rest of the walnuts in a dry skillet over medium heat until fragrant.
-1. Core and chop the apple and pear into bite-sized pieces.
-1. Assemble the salad by splitting the lettuce between the plates, followed by the apples, pears, chives, walnut cheese, chives, toasted walnuts, orange zest and finally the marinated beets (drained of course). 
+1. Toast the rest of the **walnuts** in a dry skillet over medium heat until fragrant.
+1. Core and chop the **apple** and **pear** into bite-sized pieces.
+1. Assemble the salad by splitting the **lettuce** between the plates, followed by the **apples**, **pears**, **walnut cheese**, **chives**, **toasted walnuts**, **orange zest** and finally the **marinated beets** (drained of course). 
 

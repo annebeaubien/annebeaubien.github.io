@@ -22,8 +22,9 @@ We had them as an appetizer along with some fresh fruit and cheese, but these ca
 - 1 vanilla bean
 - 1 cinnamon stick
 - 6  whole cloves
-- 12 dried black figs
 - 1 750ml bottle port
+- 12 dried black figs
+
 
 
 ---
@@ -34,9 +35,9 @@ We had them as an appetizer along with some fresh fruit and cheese, but these ca
 
 **Instructions:**
 
-1. Slice the vanilla bean in half lengthwise, then scrape out the seeds. Add the bean pod and seeds to a saucepan along with the port, cinnamon stick and cloves.
+1. Slice the **vanilla bean** in half lengthwise, then scrape out the seeds. Add the bean pod and seeds to a saucepan along with the **cinnamon stick**, **cloves** and **port**.
 1. Bring to a boil, then reduce the heat and simmer until reduced by half (15-20 minutes). 
-1. Add the figs, cover and simmer for another 30-40 minutes. 
+1. Add the **figs**, cover and simmer for another 30-40 minutes. 
 1. Remove from heat, let the figs cool in the syrup, then they are ready to serve. 
 1. Store them in the fridge in their own liquid for up to a week or two. 
 
