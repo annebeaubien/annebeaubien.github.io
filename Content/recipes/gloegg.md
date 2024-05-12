@@ -35,9 +35,11 @@ Kids across Norway LOVE gløgg. It is a traditional Christmas drink and not the 
 
 **Instructions:**
 
-1. Place the grape juice, orange juice, water, cinnamon stick, whole cloves, chopped cardamom pods, and orange zest into a large stock pot and bring to a boil.
+1. Place the **grape juice**, **orange juice**, **water**, into a large stock pot and bring to a boil. 
+1. Add the **cinnamon stick**, **whole cloves**, and chopped **cardamom pods** 
 1. Turn down the heat and simmer for 15 minutes. 
 1. Remove from the heat and cool for 15 minutes.
-1. Strain out the spices. 
-1. Serve the gløgg warm with 1 teaspoon each chopped almonds and raisins. The nuts and raisins go into the glass and get all soft and juicy and you eat them with a spoon while drinking your warm cozy drink.
+1. Strain out the spices (or use a spice bag to fish them out more easily).
+1. Serve the gløgg warm with 1 teaspoon each chopped **almonds** and **raisins**. The nuts and raisins go into the glass and get all soft and juicy and you eat them with a spoon while drinking your warm cozy drink.
+1. If you want to add red wine to this, feel free to do that now. You can add it to the whole batch or just to each glass. 
 

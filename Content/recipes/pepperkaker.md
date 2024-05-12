@@ -27,11 +27,11 @@ A note on substitutions: If you substitute honey for the corn syrup it makes the
 - 255 grams sugar
 - 150 grams cream
 - 580 all purpose flour
+- 1 1/2 teaspoons baking powder
 - 3/4 teaspoon ground cloves
 - 3/4 teaspoon ground ginger
 - 1 teaspoon ground pepper
 - 3 teaspoons ground cinnamon
-- 1 1/2 teaspoons baking powder
 
 
 ---
@@ -42,13 +42,13 @@ A note on substitutions: If you substitute honey for the corn syrup it makes the
 
 **Instructions:**
 
-1. Combine the butter, honey and sugar in a saucepan. Heat over medium until butter melts and sugar dissolves. Remove from heat.
-1. Whisk the cream into the sugar mixture. Set aside.
-1. In a large bowl combine the flour and spices.
+1. Combine the **butter**, **corn syrup** and **sugar** in a saucepan. Heat over medium until butter melts and sugar dissolves. Remove from heat.
+1. Whisk the **cream** into the sugar mixture. Set aside.
+1. In a large bowl sift the **flour**, **baking powder**, and **spices**.
 1. Combine the wet and dry mixtures.
 1. Stir with a wooden spoon until a smooth dough forms. 
-1. Divide into balls and wrap in parchment paper. Refrigerate for at least 1 hour. 
-1. Preheat the oven to 350ºF/175ºC then roll out, stamp shapes and bake. If the dough has gotten too cold then it will be tricky to roll out, we like to hit it with the rolling pin to flatten it (because it’s fun) then roll and turn a bunch of times. You can also take off smaller balls and warm them up in your hands and knead them a few times before rolling out. Use flour when rolling out and make sure to put down a little flour just after the last roll so that the cookies don’t stick to the counter after you’ve stamped them. 
+1. Divide into balls and wrap in parchment paper. Then tie with a rubber band. Refrigerate for at least 1 hour. 
+1. Preheat the oven to 350ºF/175ºC then roll out the dough, stamp shapes and bake. If the dough has gotten too cold then it will be tricky to roll out, we like to hit it with the rolling pin to flatten it (because it’s fun) then roll and turn a bunch of times. You can also take off smaller balls and warm them up in your hands and knead them a few times before rolling out. Use flour when rolling out and make sure to put down a little flour just after the last roll so that the cookies don’t stick to the counter after you’ve stamped them. 
 1. Bake small cookies (1-2") for 10 minutes. Bake large cookies (4-6") for 12-14 minutes. They are done baking when they start to change color at the edges, but are not too dark. It just takes buring one batch to know what too dark is :)...if they are not done in the suggested times then they are too thick.
 
 

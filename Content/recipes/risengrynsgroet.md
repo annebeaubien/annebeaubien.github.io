@@ -39,8 +39,8 @@ If making this recipe vegan or dairy-free be sure to use vegan and dairy-free mi
 
 **Instructions:**
 
-1. Place the rice, water, milk and salt in a rice cooker. Then split the vanilla bean down the middle and scrape the beans into the rice cooker then place the whole bean in there as well. Turn it on the white rice setting. Stir every 10 minutes just to make sure the bottom is not burning. Add more water as needed. *If making this in a stock pot you will have to keep a close eye on it so it does not boil over or burn so cook it over low heat. It is done when the rice is cooked through. It should be a little soupy, it is porridge after all. 
+1. Place the **rice**, **water**, **milk** and **salt** in a rice cooker. Then split the **vanilla bean** down the middle and scrape the beans into the rice cooker then place the whole bean in there as well. Turn it on the white rice setting. Stir every 10 minutes just to make sure the bottom is not burning. Add more water as needed. *If making this in a stock pot you will have to keep a close eye on it so it does not boil over or burn so cook it over low heat. It is done when the rice is cooked through. It should be a little soupy, it is porridge after all. 
 1. If you are playing the game then take an almond, put it in a small bowl and pour boiling water over it. Wait a few minutes then fish it out of the bowl and the skin should slip right off. Put it into the serving bowl.
-1. Scoop your serving of the porridge into a bowl, then make a small well in the middle of the porridge. Put a dab (about 1/2 tbsp) of butter into the well. Then sprinkle cinnamon sugar over the entire top. 
+1. Scoop your serving of the porridge into a bowl, then make a small well in the middle of the porridge. Put a dab (about 1/2 tbsp) of **butter** into the well. Then sprinkle **cinnamon sugar** over the entire top. 
 1. This part is very important! Do not mix everything together! Your Norwegian friends will never forgive you. When you eat risengrynsgrøt you take your spoon and dig into part of the butter, then continue down into the porridge. You are meant to have a small piece of butter with every bite. 
 
