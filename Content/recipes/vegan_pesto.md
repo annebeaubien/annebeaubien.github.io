@@ -19,10 +19,9 @@ When I first made this recipe I was sure I was going to have to replace the chee
 **Ingredients:**
 
 - 2-3  cups fresh basil (packed)
-- 1/4 cup water
+- 1/3 cup fresh squeezed lemon juice
 - 1/4 cup extra virgin olive oil
 - 1/2 cup pecans
-- 1 tablespoon fresh lemon juice
 - 1/2 teaspoon fine salt
 
 
