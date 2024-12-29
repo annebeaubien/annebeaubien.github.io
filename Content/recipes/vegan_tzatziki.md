@@ -40,9 +40,9 @@ If you know that you don’t have a powerful blender then you should soak the ca
 
 **Instructions:**
 
-1. Place the cashews, water, lemon juice and garlic into a blender and blend on high until smooth. If you don’t have a very powerful blender you might want to soak the cashews first, or puree them for a bit let them sit and puree again a few times. You want this puree to be a smooth and thick as greek yogurt. If you still can’t get it smooth you can strain out any larger pieces, or leave them in for a chunkier tzatziki.
-1. Peel the cucumber then grate it using a cheese grater. 
-1. Put the cucumber into a colander, sprinkle with salt and let it drain into a bowl/sink for 20 minutes. 
-1. Then squeeze out the excess water and mix the cucumber, dill and chives into the cashew puree. 
+1. Place the **cashews**, **water**, **lemon juice** and **garlic** into a blender and blend on high until smooth. You want this puree to be a smooth and as thick as greek yogurt. If you still can’t get it smooth you can strain out any larger pieces, or leave them in for a chunkier tzatziki.
+1. Peel the **cucumber** then grate it using a large-hole cheese grater. 
+1. Put the cucumber into a colander, sprinkle with **salt** and let it drain into a bowl/sink for 20 minutes. 
+1. Then squeeze out the excess water and mix the **cucumber**, **dill** and **chives** into the cashew puree. 
 1. Eat right away or chill. 
 

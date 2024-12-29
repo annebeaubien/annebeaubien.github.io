@@ -22,15 +22,15 @@ A note on substitutions: If you substitute honey for the corn syrup it makes the
 
 **Ingredients:**
 
-- 250 grams butter (a little over two sticks)
-- 150 grams light corn syrup
+- 250 grams salted butter (a little over two sticks)
+- 150 grams light corn syrup or allulose syrup
 - 255 grams sugar
 - 150 grams cream
-- 580 all purpose flour
+- 580 grams all purpose flour
 - 1 1/2 teaspoons baking powder
 - 3/4 teaspoon ground cloves
-- 3/4 teaspoon ground ginger
-- 1 teaspoon ground pepper
+- 1 teaspoon ground ginger
+- 2 teaspoon ground pepper
 - 3 teaspoons ground cinnamon
 
 
