@@ -21,9 +21,9 @@ When I first made this recipe I was sure I was going to have to replace the chee
 - 2-3  cups fresh basil (packed)
 - 1/3 cup fresh squeezed lemon juice
 - 1/4 cup extra virgin olive oil
-- 1/2 cup pecans
 - 1/2 teaspoon fine salt
-
+- 1/2 cup pecans
+-
 
 ---
 
@@ -33,6 +33,7 @@ When I first made this recipe I was sure I was going to have to replace the chee
 
 **Instructions:**
 
-1. Place all of the ingredients into a blender and blend on high until smooth.
+1. Place the **basil**, **lemon juice**, **olive oil** and **salt** into a blender and blend on high until smooth.
+1. Add the pecans to the blender and blend until they reach desired consistency. Sometimes it's nice to have a smoother pesto and sometimes you want it chunkier.
 1. Use as a pizza sauce, bread stick dipping sauce, or  over gnocchi and veggies in my recipe [Pestoed Veggies and Gnocchi](https://wafflehearts.com/recipes/pestoed_veggies_and_gnocchi/)
 
