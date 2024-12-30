@@ -1,10 +1,10 @@
-// swift-tools-version: 6.0
+// swift-tools-version: 5.7
 
 import PackageDescription
 
 let package = Package(
     name: "WaffleHearts",
-    platforms: [.macOS(.v15)],
+    platforms: [.macOS(.v13)],
     products: [
         .executable(
             name: "WaffleHearts",

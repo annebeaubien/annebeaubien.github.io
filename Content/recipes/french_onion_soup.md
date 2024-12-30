@@ -9,10 +9,10 @@ This version of French onion soup is made without butter, flour, sugar, or beef 
 
 Contrary to popular opinion, the trick to making really good French onion soup is the wine that you cook into it (not the amount of butter and sugar). The soup will take on a lot of flavor from the wine so make sure to use a wine that you like to drink. You can use white or red, dry wines tend to work better. 
 
-Notes:
-Vegan: If making this vegan, make sure to use vegan cheese and vegan bread. 
-Vegetarian: If you are a strict vegetarian, make sure to buy vegetarian cheese that does not contain animal rennet. You want to find cheese that is made without rennet or with vegetable rennet sometimes called "enzymes". 
-Gluten-Free: Make sure to buy gluten free bread often found in the frozen section.
+Notes:  
+*Vegan:* If making this vegan, make sure to use vegan cheese and vegan bread.  
+*Vegetarian:* If you are a strict vegetarian, make sure to buy vegetarian cheese that does not contain animal rennet. You want to find cheese that is made without rennet or with vegetable rennet sometimes called "enzymes".  
+*Gluten-Free:* Make sure to buy gluten free bread often found in the frozen section.
 
 **Makes:** 3 cups
 
