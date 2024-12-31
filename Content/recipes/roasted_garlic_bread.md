@@ -38,5 +38,5 @@ Vegan whole grain bread isn’t as hard to find as it sounds. You can find at le
 1. While it is cooling toast the bread.
 1. Unwrap the foil and use it to hold the garlic by the root end. Then holding it upside down squeeze it into a small bowl and all of the roasted garlic will come out like a paste. 
 1. Mash it up then spread it on the toast. One head of garlic should have enough paste for 2 slices of toast. You can use a lot of garlic because roasting it changes the flavor and mellows it. 
-1. Sprinkle with paprika and enjoy with your favorite vegan dish like INLINE-LINK-START title="Anne's E2 Lasagna" href="../../../recipes/anne-s-e2-lasagna" target="_blank">Anne’s E2 Lasagna INLINE-LINK-END, INLINE-LINK-START title="Cauliflower Soup" href="../../../recipes/cauliflower-soup" target="_blank">Cauliflower Soup INLINE-LINK-END, or INLINE-LINK-START title="Sweet Potato Leek Soup" href="../../../recipes/sweet-potato-leek-soup" target="_blank">Sweet Potato Leek Soup INLINE-LINK-END.
+1. Sprinkle with paprika and enjoy with your favorite vegan dish like [https://wafflehearts.com/recipes/sweet_potato_leek_soup](Sweet Potato Leek Soup).
 

@@ -40,6 +40,6 @@ Super easy preparation and really tasty rewards, isn't this what every recipe sh
 1. Add the spices.
 1. Cook for a further 6-10 hours on LOW.
 1. Preserve in canning jars or keep in the fridge for up to two weeks. 
-1. If you are preserving this in canning jars, then you should prepare the jars and process follow proper canning instructions. If you are new to canning, follow the instructions on the INLINE-LINK-START title="Canning" href="http://www.freshpreserving.com/getting-started.aspx" target="_blank">Ball website INLINE-LINK-END.
+1. If you are preserving this in canning jars, then you should prepare the jars and process follow proper canning instructions. If you are new to canning, follow the instructions on the [Ball website](http://www.freshpreserving.com/getting-started.aspx).
 1. Use this sweet sauce atop pancakes, toast, ice cream, pork chops, or stir it into oatmeal or plain yogurt. 
 

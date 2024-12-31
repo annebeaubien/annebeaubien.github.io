@@ -36,7 +36,7 @@ A note about pectin: There are several kinds of pectin on the market. I find tha
 
 **Instructions:**
 
-1. If canning, prepare water bath and sterilize canning jars. If you are new to canning, follow the instructions on the INLINE-LINK-START title="Canning" href="http://www.freshpreserving.com/getting-started.aspx" target="_blank">Ball website INLINE-LINK-END.
+1. If canning, prepare water bath and sterilize canning jars. If you are new to canning, follow the instructions on the [Ball website](http://www.freshpreserving.com/getting-started.aspx).
 1. Prepare the figs: place them into a bowl and cover with boiling water. Let them sit for 10 minutes to soften. Then drain them, remove the stems and chop them into small pieces (about 1/4 inch large). 
 1. In a saucepan combine the prepared figs, water and lemon juice. Sprinkle the pectin in, stirring it until it is all mixed in.
 1. Bring the mixture to a full rolling boil that cannot be stirred down. Boil hard for 1 minute then remove the pan from the heat.

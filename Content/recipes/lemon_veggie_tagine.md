@@ -63,4 +63,4 @@ Notes:
 1. Serve with brown rice or brown rice noodles. 
 
 
-See recipe for INLINE-LINK-START title="How To: Preserve Lemons" href="../../howtos/how-to-preserve-lemons" target="_blank">How To: Preserve Lemons INLINE-LINK-END
+See recipe for [https://wafflehearts.com/howtos/how_to_preserve_lemons](How To: Preserve Lemons)

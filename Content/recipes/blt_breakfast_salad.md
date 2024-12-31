@@ -38,4 +38,4 @@ Who says you can’t have salad for breakfast? Nobody ever does! The French have
 1. Grab a fork and dig in.
 
 
-Here's another great "salad for breakfast" recipe: INLINE-LINK-START title="Amy's Eggs" href="http://www.wafflehearts.com/recipes/amy-s-eggs" target="_blank">Amy's Eggs INLINE-LINK-END
+Here's another great "salad for breakfast" recipe: [Amy's Eggs](http://www.wafflehearts.com/recipes/amy_s_eggs)

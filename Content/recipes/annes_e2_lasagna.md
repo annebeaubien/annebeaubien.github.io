@@ -52,7 +52,7 @@ If you plan to have garlic bread with this you will want to have a head of garli
 1. While the lentils and vegetables are cooking you can grind the cashews and make the white bean puree. First put 1/2 cup cashews into a blender and process until they are ground. Do not process too long or they could get gummy. You want them crumbly. Pour them out into a small bowl and set aside.
 1. Next combine the white beans, garlic, oregano, nutritional yeast and remaining 1/4 cup cashews in the blender with 1/2 cup water and process until smooth. If you have a very good blender this will be a medium speed, if you have a blender that is a bit older or doesn’t have as much horsepower then process on high in 60-second intervals until you are happy with the consistency, it will likely end up a bit chunkier but that’s ok. Season to taste with a pinch of salt.
 1. When you remove the veggies from the oven turn the heat down to 400ºF/200ºC.
-1. If you are planning to have this with INLINE-LINK-START title="Roasted Garlic Bread" href="../../../recipes/roasted-garlic-bread">Roasted Garlic Bread INLINE-LINK-END you'll want to put the garlic in at the same time as the lasagna since it needs about an hour to cook.
+1. If you are planning to have this with [Roasted Garlic Bread](https://wafflehearts.com/recipes/roasted-garlic-bread) you'll want to put the garlic in at the same time as the lasagna since it needs about an hour to cook.
 1. Assemble the layers of the lasagna in a 9x9 lasagna dish. Spread the ingredients of each layer out evenly. Starting from the bottom the layers are:
 1. 1 cup pasta sauce
 1. single layer of lasagna noodles

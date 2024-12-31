@@ -45,7 +45,7 @@ If you are not making this recipe vegan, feel free to add an egg to batter to he
 1. Remove the oat mixture from the fridge and add the mashed banana. Mix well. Then add the almond milk, amond extract and ground flax seeds.
 1. Stir the flour mixture. into the wet mixture.
 1. Cook like regular pancakes. Heat a non-stick skillet or griddle over low heat. Spoon some of the batter onto the skillet. Cook until you see air bubbles in the middle then flip and cook on the other side.  
-1. The best toppings for these pancakes are fresh berries, INLINE-LINK-START title="How To: Toast Coconut" href="../../../howtos/how-to-toast-coconut" target="_blank">toasted coconut INLINE-LINK-END, toasted almonds, INLINE-LINK-START title="Apple Butter" href="../../../recipes/anne-s-apple-butter" target="_blank">apple butter INLINE-LINK-END, and INLINE-LINK-START title="Strawberry Jam" href="../../../recipes/strawberry-jam" target="_blank">strawberry jam INLINE-LINK-END!
+1. The best toppings for these pancakes are fresh berries, [https://wafflehearts.com/recipes/strawberry_jam](Strawberry Jam)!
 
 
-This recipe was inspired by INLINE-LINK-START title="Dee's Oatmeal Pancakes" href="http://www.simplyrecipes.com/recipes/dees_oatmeal_pancakes/" target="_blank">Dee’s Oatmeal Pancakes INLINE-LINK-END on Simply Recipes.com 
+This recipe was inspired by [Dee’s Oatmeal Pancakes](http://www.simplyrecipes.com/recipes/dees_oatmeal_pancakes/) on Simply Recipes.com 

@@ -42,4 +42,4 @@ I recommend using a high powered blender or juicer, the wheatgrass can clog regu
 1. Add the other 1 cup sparkling water and serve right away. If you want it more sparkly you can always add more sparkling water. 
 
 
-Click here for instructions on INLINE-LINK-START title="Growing Wheatgrass at Home" href="http://www.wafflehearts.com/posts/growing-wheatgrass-at-home" target="_blank">Growing Wheatgrass at Home. INLINE-LINK-END
+Click here for instructions on [https://wafflehearts.com/posts/growing_wheatgrass_at_home](Growing Wheatgrass at Home)

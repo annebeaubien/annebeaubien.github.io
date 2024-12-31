@@ -40,7 +40,7 @@ Somehow, when I wasn’t paying attention to my garden my tiny parsley plant eru
 
 1. Mince the parsley and garlic. Add them to a medium bowl and combine with 2 tablespoons olive oil. 
 1. Marinate the shrimp in the garlic-parsley mixture for several hours in the refrigerator. 
-1. Meanwhile, slice the leek and wash it (INLINE-LINK-START title="How to wash and chop leeks" href="../../../howtos/how-to-chop-and-wash-leeks" target="_blank">see how here INLINE-LINK-END). Sauté the leek in a little olive oil until the pieces soften and start to brown a bit.
+1. Meanwhile, slice the leek and wash it ([https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks](How to wash and chop leeks)). Sauté the leek in a little olive oil until the pieces soften and start to brown a bit.
 1. Chop the carrots, zucchini, green beans and broccoli. Place in a medium-sized sauce pan. Cover with water and par-boil for 10 minutes or until the veggies reach the desired softness.
 1. Boil your pasta as the directions instruct then when it is ready swirl the pasta in a large bowl with a bit of olive oil. Quickly mix in the greens, cooked veggies and leeks. 
 1. Lastly, cook the shrimp in a skillet until they are cooked through. A couple minutes on each side should do it. 

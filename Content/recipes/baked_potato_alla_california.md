@@ -42,7 +42,7 @@ I recently developed a “Cheese-less Cheese Sauce” recipe that has brought ba
 1. Preheat oven to 425ºF/220ºC.
 1. Rub the potato with olive oil and salt and place into the preheated oven for 60 minutes. (Everyone says to poke a potato with a fork a few times before you put it in the oven so that it doesn’t explode. Feel free to do this, I always forget and I have never had one explode). The potato is done when you can easily poke a fork into the center. Depending on the potatoes thickness this will take 45-60 min.
 1. While the potato is cooking, chop the zucchini, carrot, parsnip, cauliflower and broccoli into bite-sized pieces. 
-1. Prepare theINLINE-LINK-START title="Cheese-less Cheese Sauce" href="http://www.wafflehearts.com/recipes/cheese-less-cheese-sauce" target="_blank"> Cheese-less Cheese Sauce INLINE-LINK-END if you have not already done so.
+1. Prepare the[Cheese-less Cheese Sauce](http://www.wafflehearts.com/recipes/cheese_less_cheese_sauce) if you have not already done so.
 1. When the potato is about 10 minutes from being done parboil the veggies by placing them into a saucepan and covering them with cold water. Put on the stovetop and turn the burner to high. From the time you turn on the burner set a timer for 10 minutes. When it goes off the veggies should be done. You want them a little softened but not mushy. Strain the water off and set aside.
 1. Remove the potato from the oven and cut it in half. Put one half onto each plate. 
 1. Top the potato halves with the veggies and drizzle with as much "cheese" sauce as you want. 

@@ -52,5 +52,5 @@ Whether you choose to make a banana bread loaf, muffins, mini-muffins or some ot
 1. Fold in the chopped nuts and/or raisins if using.
 1. Pour the batter into prepared loaf pan, muffin cups or mini-muffin cups. 
 1. Bake at 350 until a toothpick inserted in comes out clean. This should be about 45-50 minutes for a loaf, 27-32 minutes as muffins, or 18-20 minutes as mini muffins. 
-1. Eat as is, or top with INLINE-LINK-START title="Anne's Apple Butter" href="../../../recipes/anne-s-apple-butter" target="_blank">Anne’s Apple Butter INLINE-LINK-END or INLINE-LINK-START title="Strawberry Jam" href="../../../recipes/strawberry-jam%20" target="_blank">Strawberry Jam INLINE-LINK-END.
+1. Eat as is, or top with [Strawberry Jam](https://wafflehearts.com/recipes/strawberry_jam).
 

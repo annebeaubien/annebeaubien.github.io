@@ -36,7 +36,7 @@ Most people will have 2-3 cups of soup for a main course and 1 cup for an appeti
 **Instructions:**
 
 1. Peel the sweet potato, then dice into bite-sized pieces. Place the pieces into a 2.5 quart (or larger) saucepan and set aside.
-1. Chop and wash leeks. Then add them to the saucepan. For detailed instructions on how to prepare leeks easily, see my post: INLINE-LINK-START title="How To Chop and Wash Leeks" href="../../howtos/how-to-chop-and-wash-leeks" target="_blank">How To: Chop and Wash Leeks INLINE-LINK-END
+1. Chop and wash leeks. Then add them to the saucepan. For detailed instructions on how to prepare leeks easily, see my post: [https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks](How To Chop and Wash Leeks)
 1. Add the vegetable stock to the saucepan and bring to a boil. Then turn the heat down and simmer until the potatoes are tender (about 20 minutes). 
 1. Place all of the soup into a blender along with the Greek yogurt. Puree until smooth. 
 1. Refrigerate until cold (about 2-3 hours) then serve garnished with chopped chives.

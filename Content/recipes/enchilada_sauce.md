@@ -43,5 +43,5 @@ This recipe is written to use canned tomato sauce, but if you want to use fresh 
 1. Add 1 cup of water (only if using canned sauce).
 1. At this point you should have 2 cups of watered down tomato sauce in a blender. Now add the chili powder, cumin, garlic powder, onion powder, and oregano to the blender and puree on high until well blended.
 1. Taste and add salt as needed. This will vary based on if your beginning tomato sauce is salted or not. Blend again, taste again. 
-1. Use to make INLINE-LINK-START title="Veggie Enchiladas" href="../../../recipes/veggie-enchiladas" target="_blank">enchiladas INLINE-LINK-END.
+1. Use to make [https://wafflehearts.com/recipes/veggie_enchiladas](Veggie Enchiladas).
 

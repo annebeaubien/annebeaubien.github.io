@@ -45,12 +45,12 @@ Gout diet: if you are following a gout diet, you may or may not be able to eat t
 
 1. Take the tortillas out of the fridge and let them come to room temperature while you are doing the other prep. 
 1. Thaw the kale and corn in a large bowl filled with cold water, then drain them and squeeze out the excess water. This should only take a few minutes. Put the kale and corn back into the bowl.
-1. Add the beans to the bowl and mix in 2 tablespoons of INLINE-LINK-START href="../../../recipes/cashew-cream" target="_blank">cashew cream INLINE-LINK-END, all of the nutritional yeast, lime juice and garlic powder. Taste the mixture and add a little salt and pepper if desired.
-1. Pour the INLINE-LINK-START title="Enchilada Sauce" href="../../../recipes/enchilada-sauce" target="_blank">enchilada sauce INLINE-LINK-END into a wide, shallow bowl and dip the tortillas into the liquid so they are coated on all sides with sauce.
+1. Add the beans to the bowl and mix in 2 tablespoons of [cashew cream](https://wafflehearts.com/recipes/cashew-cream), all of the nutritional yeast, lime juice and garlic powder. Taste the mixture and add a little salt and pepper if desired.
+1. Pour the [https://wafflehearts.com/recipes/enchilada_sauce](Enchilada Sauce) into a wide, shallow bowl and dip the tortillas into the liquid so they are coated on all sides with sauce.
 1. Fill each tortilla with half of the kale mixture, then roll and set into a baking dish with the seam-side down. Make sure to use a baking dish the correct size for the number of enchiladas you are making. A 5x7 dish is perfect for 2, while a 7x10 dish is best for 4-6.
 1. Once the torillas are filled and tucked into the dish, pour enchilada sauce on top of them until they are covered. If there isn’t enough sauce just add a little water. 
 1. Bake at 350ºF/180ºC for 20 minutes.
 1. Remove from the oven and let cool for 5 minutes before serving. Then drizzle the remaining 2 tablespoons cashew cream across the top and garnish with fresh cilantro.
 
 
-Links: INLINE-LINK-START title="Enchilada Sauce" href="../../../recipes/enchilada-sauce" target="_blank">Enchilada Sauce INLINE-LINK-END INLINE-LINK-START href="../../../recipes/cashew-cream" target="_blank">Cashew Cream INLINE-LINK-END
+Links: [https://wafflehearts.com/recipes/cashew_cream](Enchilada Sauce)

@@ -39,7 +39,7 @@ This sauce can be preserved in mason jars and water bath canned. Follow the wate
 
 **Instructions:**
 
-1. Prepare water bath canner and jars if using, otherwise skip to step 2. Follow proper water bath canning instructions on the INLINE-LINK-START href="http://www.freshpreserving.com/getting-started.aspx" target="_blank">Ball website. INLINE-LINK-END
+1. Prepare water bath canner and jars if using, otherwise skip to step 2. Follow proper water bath canning instructions on the [Ball website.](http://www.freshpreserving.com/getting-started.aspx)
 1. Combine all of the ingredient in a saucepan and bring to a boil over high heat.
 1. Reduce the heat to medium and simmer for 10 minutes until the mixture is syrupy. If it is still too watery you should let it boil down a little longer. The best way to test it is by putting a little sauce onto a cold plate and see if is thick enough. It will thicken a little as it cools. 
 1. As soon as it is syrupy remove the sauce from the heat and pour into a heat safe serving dish or mason jar. 

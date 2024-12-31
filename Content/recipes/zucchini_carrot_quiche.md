@@ -37,7 +37,7 @@ I have made this quiche in several different forms: in a large baking dish, indi
 **Instructions:**
 
 1. Preheat oven to 425ºF/220ºC.
-1. Chop and wash the **leeks**, for detailed instructions see my post on INLINE-LINK-START title="http://www.wafflehearts.com/howtos/how-to-chop-and-wash-leeks" href="How%20To:%20Wash%20and%20Chop%20Leeks" target="_blank">How To: Chop and Wash Leeks INLINE-LINK-END.
+1. Chop and wash the **leeks**, for detailed instructions see my post on [How To: Chop and Wash Leeks](How%20To:%20Wash%20and%20Chop%20Leeks).
 1. Dice **carrots** and **zucchini**. 
 1. Heat the **olive** **oil** in a skillet over medium heat. Then sweat the chopped leeks, carrots and zucchini for about 5-6 minutes until they soften up a bit. 
 1. In a large bowl, whisk together the **spring onions**, **eggs**, **milk** **substitute**, **salt** and **pepper**. 

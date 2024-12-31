@@ -33,7 +33,7 @@ Roasting squash is the easy part. The hard part is deciding which recipe you are
 1. Scoop out the seeds with a spoon and discard (see third photo below). 
 1. Cut the squash into 1" cubes and place in the dish or on the paper lined baking sheet, spreading them out so they form a single layer.
 1. Bake for 15 minutes, flip over then bake for another 15 minutes until they are soft enough to put a fork into.
-1. Try this tasty gourd in my INLINE-LINK-START title="Curried Butternut Squash Soup" href="http://www.wafflehearts.com/recipes/curried-butternut-squash-soup" target="_blank">Curried Butternut Squash Soup INLINE-LINK-END, or a concoction of your own!
+1. Try this tasty gourd in my [https://wafflehearts.com/recipes/curried_butternut_squash_soup](Curried Butternut Squash Soup), or a concoction of your own!
 
 
 INLINE-IMAGE-START style="border: 5px solid black; margin: 5px;" src="http://s3.amazonaws.com/anne-website/app/public/images/Recipe/73/other_images/24/medium/0057d16e5d45a5183ef1355fc205093c1bd19f8a.JPG?1379813200" alt="" />

@@ -43,6 +43,6 @@ You should chop all the veggies into bite-sized pieces before you start cooking.
 1. Meanwhile pour the **olive oil** into a large skillet and heat over medium-high.  
 1. Add the chopped **zucchini**, **carrot**, **broccoli**, **green beans**, and **bell pepper**. Cover the veggies and sweat them for about 10 minutes. 
 1. Uncover the veggies and check the tenderness. They should be “al dente”, or cooked all the way through but still have some resistance when you bite into them. If they are still a bit too firm then cook for a few minutes uncovered. Make sure not to over cook the veggies. You don’t want them soft.
-1. Place 2 cups of **spinach** in a large bowl, then add the cooked gnocchi, the cooked veggies and top with pesto. (click here for my INLINE-LINK-START title="Vegan Pesto" href="../../../recipes/vegan-pesto">Vegan Pesto INLINE-LINK-END recipe)
+1. Place 2 cups of **spinach** in a large bowl, then add the cooked gnocchi, the cooked veggies and top with pesto. (click here for my [Vegan Pesto](https://wafflehearts.com/recipes/vegan-pesto) recipe)
 1. Toss together and serve in a large bowl. 
 

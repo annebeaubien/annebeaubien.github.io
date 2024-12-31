@@ -39,7 +39,7 @@ This recipe has several parts cooking at once, but if you put the get the butter
 **Instructions:**
 
 1. Preheat the oven to 450ºF/232ºC and line a baking sheet with parchment paper.
-1. Peel the butternut squash with a vegetable peeler, scoop out and discard the seeds them chop the squash into 1” pieces. Roast at 450ºF/232ºC for 30 minutes, flipping the pieces over halfway through cooking. For more detailed instructions see my post: INLINE-LINK-START title="How to roast butternut squash" href="http://www.wafflehearts.com/howtos/how-to-roast-butternut-squash" target="_blank">How to: Roast Butternut Squash INLINE-LINK-END.
+1. Peel the butternut squash with a vegetable peeler, scoop out and discard the seeds them chop the squash into 1” pieces. Roast at 450ºF/232ºC for 30 minutes, flipping the pieces over halfway through cooking. For more detailed instructions see my post: [https://wafflehearts.com/howtos/how_to_roast_butternut_squash](How to roast butternut squash).
 1. Meanwhile, put the quinoa and chopped rosemary in a small saucepan with a little less than 1/2 cup of water. Bring to a boil, then simmer for for 15 -20 minutes or until the water is absorbed.
 1. Put the sage and olive oil into small sauté pan and bring to a simmer over medium heat. Continue to cook until the sage is crispy, this should take about 2 - 3 minutes. Once the sage stops sizzling that means all of the water has been cooked out of it and it is done. Immediately remove from heat and set aside.
 1. Once the quinoa is finished cooking, drizzle the crispy sage olive oil over it and mix well.

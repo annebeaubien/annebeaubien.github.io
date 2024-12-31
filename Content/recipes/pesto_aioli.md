@@ -36,7 +36,7 @@ This recipe uses my vegan mayonnaise as the base. Alternatively you can use stor
 
 **Instructions:**
 
-1. If you have already made myINLINE-LINK-START href="../../../recipes/vegan-mayonnaise" target="_blank"> vegan mayonnaise INLINE-LINK-END or are using store bought skip to step 5.
+1. If you have already made my [vegan mayonnaise](https://wafflehearts.com/recipes/vegan_mayonnaise) or are using store bought skip to step 5.
 1. If using a stick blender: Place the soy milk, vinegar, lemon juice, dry mustard, salt, and olive oil into a tall cylindrical container in the order listed. Place the immersion blender all the way down to the bottom of the container and pulse on a low setting 10-20 times until the emulsion starts to come together and look like mayonnaise. Move the immersion blender around while pulsing to mix in any oil sitting on the top of the emulsion. 
 1. If using a regular blender: Put in all the ingredients except the oil into the blender cup and mix together quickly. Then with the blender running slowly pour in the olive oil and let it mix until it looks like mayo. This should take about 60 seconds.
 1. Taste the mixture then decide if you want to add any agave. The agave sweetens it up and takes away the bitter after taste, so add a little at a time until it tastes the way you want it too.

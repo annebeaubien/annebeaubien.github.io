@@ -38,5 +38,5 @@ You can melt liquids (milk, cream, coconut oil, butter, etc) together with the c
 1. Chop up the chocolate into roughly equal pieces so that it melts evenly. Place the chocolate into the smaller saucepan. If you are using any liquids, add them to the smaller saucepan with the chocolate now.
 1. Fill the larger saucepan halfway up with water, and heat over high until it boils.
 1. Turn off the heat and set the smaller saucepan into the larger saucepan. Stir the chocolate until it is completely melted.
-1. Dip things into the chocolate or use it in a recipe like my INLINE-LINK-START title="Dark Chocolate Coconut Cookies" href="http://www.wafflehearts.com/recipes/dark-chocolate-coconut-brownies" target="_blank">Dark Chocolate Coconut Cookies INLINE-LINK-END.
+1. Dip things into the chocolate or use it in a recipe like my [https://wafflehearts.com/recipes/dark_chocolate_coconut_brownies](Dark Chocolate Coconut Cookies).
 

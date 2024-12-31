@@ -44,4 +44,4 @@ This recipe makes 2 miniature (5”diameter) pies. If you want to make 1 full si
 1. Eat right away or refrigerate for a few hours before devouring. If you can wait that long.
 
 
-mini pie pans: INLINE-LINK-START href="http://www.surlatable.com/product/PRO-706408/Tinned-Steel-Individual-Pie-Pan">http://www.surlatable.com/product/PRO-706408/Tinned-Steel-Individual-Pie-Pan INLINE-LINK-END
+mini pie pans: [Surlatable's Tinned Steel Individual Pie Pan](http://www.surlatable.com/product/PRO-706408/Tinned-Steel-Individual-Pie-Pan)

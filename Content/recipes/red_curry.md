@@ -37,7 +37,7 @@ Most of this dish can be made ahead and finished off in about 10 minutes. You ca
 
 **Instructions:**
 
-1. Heat a large sauté pan over medium heat then add the INLINE-LINK-START title="Red Curry Sauce" href="../../../recipes/red-curry-sauce/" target="_blank">Red Curry Sauce INLINE-LINK-END to the pan and bring to a simmer.
+1. Heat a large sauté pan over medium heat then add the [Red Curry Sauce](https://wafflehearts.com/recipes/red-curry-sauce/) to the pan and bring to a simmer.
 1. Add the chopped shallot, mushrooms, bell pepper, eggplants, zucchini and green beans and cook for 10-15 minutes until the veggies are tender. 
 1. Remove from heat stir in the swiss chard.
 1. Serve hot!

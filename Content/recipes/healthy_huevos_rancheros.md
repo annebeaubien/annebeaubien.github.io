@@ -42,6 +42,6 @@ If you like eggs more than avocado you can swap out the avocado and add an extra
 1. Heat a small non-stick sauté pan over high and warm up the tortilla for about a minute on each side. Remove the tortilla and place it on a plate.
 1. Place the greens and avocado slices on top of the tortilla.
 1. Cook the egg however you like, fried over-easy, sunny-side up, poached or scrambled...it’s up to you. Then place the egg on top of the greens.
-1. Heat up the beans and salsa in the pan for about a minute, then pour them on top of the egg. (INLINE-LINK-START title="Mom's Salsa" href="../mom-s-salsa" target="_blank">Click here for my favorite salsa recipe INLINE-LINK-END).
+1. Heat up the beans and salsa in the pan for about a minute, then pour them on top of the egg. ([My favorite salsa recipe](https://wafflehearts.com/recipes/mom_s_salsa)).
 1. Top with fresh cilantro.
 

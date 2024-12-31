@@ -39,7 +39,7 @@ A note about pectin: There are several kinds of pectin on the market. I find tha
 
 **Instructions:**
 
-1. If canning, prepare water bath and sterilize canning jars. If you are new to canning, follow the instructions on the INLINE-LINK-START title="Canning" href="http://www.freshpreserving.com/getting-started.aspx" target="_blank">Ball website INLINE-LINK-END.
+1. If canning, prepare water bath and sterilize canning jars. If you are new to canning, follow the instructions on the [Ball website](http://www.freshpreserving.com/getting-started.aspx).
 1. In a large saucepan combine puréed strawberries and water, and place over high heat.
 1. Add the pectin and citric acide: sprinkle in a little at a time then stir until it is dissolved, continue until it is all added.
 1. Bring to a full rolling boil, one that can not be stirred down. If you are adding sugar then add it now in the same way you added the pectin. 

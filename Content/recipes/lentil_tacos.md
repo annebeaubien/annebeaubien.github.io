@@ -40,6 +40,6 @@ These are a regular in our house because I just love the way these lentils taste
 **Instructions:**
 
 1. Spray a pan with non-stick spray and heat over medium. Add the onions and garlic and sauté until translucent (3-5min).
-1. Add the INLINE-LINK-START title="How To: Cook Lentils" href="http://www.wafflehearts.com/howtos/how-to-cook-lentils" target="_blank">cooked lentils INLINE-LINK-END, cumin, salt, garlic powder and pepper and stir. Using a potato masher or a wooden spoon mash up the lentils as they are heating up. You want them lumpy and broken open. Once the lentils are heated through remove from heat.
+1. Add the [https://wafflehearts.com/howtos/how_to_cook_lentils](How To: Cook Lentils), cumin, salt, garlic powder and pepper and stir. Using a potato masher or a wooden spoon mash up the lentils as they are heating up. You want them lumpy and broken open. Once the lentils are heated through remove from heat.
 1. Fill the corn tortilla with lentils, avocado, fat-free Greek yogurt, spinach and salsa. 
 

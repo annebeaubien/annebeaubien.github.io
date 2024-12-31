@@ -38,6 +38,6 @@ This recipe uses a very special kind of salt that mimics the flavor of hard boil
 
 1. Drain and rinse the kidney beans, garbanzo beans and aduki beans. Pour them into a large bowl.
 1. Stir in the celery, red onion, pickles.
-1. Add the INLINE-LINK-START href="../../../recipes/vegan-mayonnaise" target="_blank">mayonnaise INLINE-LINK-END and stir the mixture until well blended.
+1. Add the [mayonnaise](https://wafflehearts.com/recipes/vegan-mayonnaise) and stir the mixture until well blended.
 1. Season to taste with India Black mineral salt. Because it is a finishing salt it tastes best if you put it on right before you eat it, otherwise it looses flavor if you leave it on for too long. If you are planning to make this dish ahead and refrigerate it, wait to add the salt until you are serving it. In fact the dish tastes better if you can refrigerate it for a few hours before serving but it’s not necessary.
 

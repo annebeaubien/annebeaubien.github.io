@@ -44,5 +44,5 @@ The sauce in this dish is a variation of a typical pan sauce. What is a pan sauc
 1. Pour in the lime juice and let it sizzle for 30 seconds. Stir it and scrape the bottom of the pan with your spatula to get all the spices mixed in and scrape up any chicken fond that hopefull is stuck to the pan.
 1. Add the coconut milk, stir and turn the heat up to medium-high. Reduce the sauce until thickened, about 10 minutes. Try to resist the urg to stir while it is reducing. This slows down the process. 
 1. Taste and add a little salt if needed. The sauce will probably taste quite a lot like lime juice, that is ok. By itself it is too limey but once you add it to the chicken it is perfect. If you feel that it is way too much lime then add a half cup of coconut milk and reduce an extra 3-5 minutes.
-1. Remove the chicken from the oven, put it onto a plate and pour the sauce over it. Sprinkle INLINE-LINK-START title="toasted coconut" href="http://www.wafflehearts.com/howtos/how-to-toast-coconut" target="_blank">toasted coconut INLINE-LINK-END on top and serve warm with a big leafy green salad.
+1. Remove the chicken from the oven, put it onto a plate and pour the sauce over it. Sprinkle [https://wafflehearts.com/howtos/how_to_toast_coconut](toasted coconut) on top and serve warm with a big leafy green salad.
 

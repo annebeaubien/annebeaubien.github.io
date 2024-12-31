@@ -52,7 +52,7 @@ Note: If making this dish Paleo just leave out the legumes or replace them with 
 1. Remove from the oven and let it cool for 15 min before moving it to a serving dish. 
 1. This is a fun dish to eat strait from the squash. While eating, scoop a little of the squash flesh into the soup so you get some with each bite. 
 1. You can also serve this in bowls. Particularly if the squash bursts! Just rescue the soup contents from the baking dish and place them in a bowl. Then scrape the soft squash flesh from the hard outer shell and mix it into the bowl with the soup. 
-1. While the squash is cooking you can toast the seeds and use them for garnish or eat as an appetizer. Here’s a great recipe for INLINE-LINK-START title="Toasted Pumpkin Seeds" href="http://www.simplyrecipes.com/recipes/toasted_pumpkin_seeds/" target="_blank">toasted pumpkin seeds INLINE-LINK-END.
+1. While the squash is cooking you can toast the seeds and use them for garnish or eat as an appetizer. Here’s a great recipe for [toasted pumpkin seeds](http://www.simplyrecipes.com/recipes/toasted_pumpkin_seeds/).
 
 
 ￼

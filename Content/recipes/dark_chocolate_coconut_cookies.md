@@ -39,7 +39,7 @@ In order to melt the chocolate you are going to create a double boiler. For more
 
 1. Preheat the oven to 350ºF/175ºC.
 1. Sift together the flour, salt and baking powder and set aside.
-1. Create a double boiler: Fill a the large saucepan halfway with water and bring to a boil. Put the chocolate and coconut oil into the small saucepan. Once the water is boiling, turn off the heat and float the small saucepan in the large saucepan being careful not to let any water get into the small one. This will melt the chocolate without burning it because it is not continuing to be heated. Stir the chocolate and coconut oil as they melt to combine them. Continue to stir until there are no more lumps. (For more detailed instructions see INLINE-LINK-START title="How To Melt Chocolate" href="http://www.wafflehearts.com/howtos/how-to-melt-chocolate-in-a-double-boiler" target="_blank">How To: Melt Chocolate (in a double boiler) INLINE-LINK-END
+1. Create a double boiler: Fill a the large saucepan halfway with water and bring to a boil. Put the chocolate and coconut oil into the small saucepan. Once the water is boiling, turn off the heat and float the small saucepan in the large saucepan being careful not to let any water get into the small one. This will melt the chocolate without burning it because it is not continuing to be heated. Stir the chocolate and coconut oil as they melt to combine them. Continue to stir until there are no more lumps. (For more detailed instructions see [https://wafflehearts.com/howtos/how_to_melt_chocolate_in_a_double_boiler](How To Melt Chocolate)
 1. Pour the chocolate mixture into a large mixing bowl.
 1. Whisk in the sugar, then the applesauce.
 1. Add the flour mixture and whisk until well combined.
