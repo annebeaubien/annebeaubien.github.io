@@ -18,7 +18,6 @@ The trick to making really great pear butter is to let it cook long enough for t
 **Ingredients:**
 
 
-
 ---
 
 **Equipment:** 6qt slow cooker, immersion blender 
@@ -27,10 +26,10 @@ The trick to making really great pear butter is to let it cook long enough for t
 
 **Instructions:**
 
-1. Quarter the pears, remove and discard the stems and seeds but you can leave the skins on.
-1. Place the quartered pears and the vanilla into a 6qt slow cooker. 
+1. Using enough pears to fill your slow cooker, quarter the **pears**, remove and discard the stems and seeds but you can leave the skins on.
+1. Place the quartered pears and about 1 tablespoon of **vanilla** into a 6qt slow cooker. 
 1. Cook on LOW for 8 hours.
-1. Add the cinnamon, then puree with an immersion blender. If you don’t have an immersion blender you can spoon the apples into a regular blender then pour it back into the slow cooker.
+1. Add some **cinnamon**, as much as you like. Start with 1 teaspoon. Puree with an immersion blender. If you don’t have an immersion blender you can spoon the apples into a regular blender then pour it back into the slow cooker.
 1. Cook for another 6-10 hours on LOW. The longer you cook it, the sweeter it gets because the sugars caramelize further. 
 1. Preserve in canning jars or keep in the fridge for up to two weeks. 
 1. If you are preserving this in canning jars, then you should prepare the jars and process follow proper canning instructions. If you are new to canning, follow the instructions on the INLINE-LINK-START title="Canning" href="http://www.freshpreserving.com/getting-started.aspx" target="_blank">Ball website INLINE-LINK-END. If you are using a waterbath to can, then you may need to add enough lemon juice to the pear butter to bring the pH down to below 4.6. Different pears have different pH levels, so they type of pear with deterin if you need lemon juice. 

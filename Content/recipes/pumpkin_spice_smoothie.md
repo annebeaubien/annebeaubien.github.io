@@ -5,7 +5,7 @@ date: 2013-10-18 00-10
 tags: Dairy Free, Gluten Free, Vegan, Vegetarian
 description: Cinnamon, ginger, clove, nutmeg; all of the warming spices of winter in an end of summer smoothie. This smoothie helps ease the transition into fall when the weather just isn’t cold enough for that latte.
 ---
-Fall is here and nothing says, “Thanksgiving is coming” quite like pumpkin flavored drinks and desserts.
+Fall is here and nothing says, “Thanksgiving is coming” quite like pumpkin flavored...everything.
 
 
 **Makes:** 16oz
@@ -38,7 +38,7 @@ Fall is here and nothing says, “Thanksgiving is coming” quite like pumpkin f
 
 **Instructions:**
 
-1. Place the pumpkin puree, coconut water, dates, vanilla extract, cinnamon, ginger, clove, nutmeg and ice cubes into a blender and blend on high until smooth.
+1. Place the **pumpkin puree**, **coconut water**, **dates**, **vanilla extract**, **cinnamon**, **ginger**, **clove**, **nutmeg** and **ice cubes** into a blender and blend on high until smooth.
 1. Top with a dollop ofINLINE-LINK-START title="Whipped Coconut Cream" href="../../../recipes/whipped-coconut-cream" target="_blank"> whipped coconut cream. INLINE-LINK-END
 1. Drink. 
 1. Feel warm and cozy inside.
