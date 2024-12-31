@@ -50,4 +50,4 @@ Note: This recipe uses miso paste which is made by fermenting a mixture of soybe
 1. Serve warm or refrigerate for up to a week. 
 
 
-[https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks](How To: Chop and Wash Leeks)
+[How To: Chop and Wash Leeks](https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks)

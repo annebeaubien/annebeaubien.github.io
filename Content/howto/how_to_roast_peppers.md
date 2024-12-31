@@ -36,5 +36,5 @@ You can either roast peppers on an outdoor grill or indoors in the oven. See the
 1. Place the peppers in the oven/on the grill and turn about every 5 minutes so that they blister and blacken on all sides. 
 1. Small peppers (2-4”) will take about 15 minutes, while large peppers (6-8”) will take about 20 minutes. 
 1. Remove the peppers and place them in bowl. Cover tightly with plastic wrap and let them sit for about 20 minutes. While they cool they will steam themselves which make the skins very easy to remove.
-1. Once the peppers are cool enough to touch you should be able to easily remove the skins using your fingers. Discard the skins, the stem and the seeds. Now you can use the pepper any way you like. Try them sliced and mixed into [https://wafflehearts.com/recipes/cheese_less_cheese_sauce](Pepperoni Primavera). 
+1. Once the peppers are cool enough to touch you should be able to easily remove the skins using your fingers. Discard the skins, the stem and the seeds. Now you can use the pepper any way you like. Try them sliced and mixed into [Pepperoni Primavera](https://wafflehearts.com/recipes/cheese_less_cheese_sauce). 
 

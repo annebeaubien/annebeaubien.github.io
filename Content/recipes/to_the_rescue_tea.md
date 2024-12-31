@@ -54,4 +54,4 @@ About the ingredients:
 1. Keep the tea warm and let it sit for 10 minutes to let all of the flavors infuse. This works best if you have a teapot warmer. If you don’t you could use a teapot cosy, or pour the concoction into a saucepan and heat until it is ready to drink. Enjoy it hot! 
 
 
-References:  [http://www.globalhealingcenter.com/benefits-of/clove](Global Healing Center: Benefits of Clove)
+References:  [Global Healing Center: Benefits of Clove](http://www.globalhealingcenter.com/benefits-of/clove)

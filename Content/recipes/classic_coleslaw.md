@@ -49,4 +49,4 @@ Preparation time includes letting the onions steep for 20 minutes and the finish
 1. Toss again just before serving and use a slotted spoon to dish it up. The liquid will settle to the bottom of the bowl. You can either drain it off or just scoop from the top. 
 
 
-Instructions for making[https://wafflehearts.com/recipes/vegan_mayonnaise](Vegan Mayonnaise).
+Instructions for making[Vegan Mayonnaise](https://wafflehearts.com/recipes/vegan_mayonnaise).

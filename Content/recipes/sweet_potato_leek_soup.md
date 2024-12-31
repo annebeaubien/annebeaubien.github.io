@@ -33,7 +33,7 @@ This recipe makes 6 cups, most people will eat 2-3 cups of soup as a main course
 **Instructions:**
 
 1. Peel the sweet potato, then dice into bite-sized pieces. Place the pieces into a 2.5 quart (or larger) saucepan and set aside.
-1. Chop and wash leeks. Then add them to the saucepan. For detailed instructions on how to prepare leeks easily, see my post: [https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks](How To: Chop and Wash Leeks)
+1. Chop and wash leeks. Then add them to the saucepan. For detailed instructions on how to prepare leeks easily, see my post: [How To: Chop and Wash Leeks](https://wafflehearts.com/howtos/how_to_chop_and_wash_leeks)
 1. Add the vegetable stock to the saucepan and bring to a boil. Then turn the heat down and simmer until the potatoes are tender (about 20 minutes). 
 1. If you want this soup a bit chunky then remove some of the leeks and potatoes and set aside.  Place the rest of the soup into a blender and puree until smooth. Add the removed leeks and potatoes back in and reheat to desired temperature.
 1. Garnish with freshly-ground black pepper and enjoy this hot, or cool and refrigerate for up to 3-4 days.

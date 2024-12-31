@@ -32,4 +32,4 @@ There are two ways to cook barley, you can either measure out the ingredients ex
 1. Remove from heat and let it sit for 10 minutes to absorb the excess water. Barley is finished when it is soft and chewy. Do not worry if there is extra water left in the pan when the barley is finished, just strain it in a colander.
 
 
-*Nutritional facts from INLINE-LINK-START href="http://nutritiondata.self.com/facts/cereal-grains-and-pasta/5678/2" target="_blank">NutritionData.self.com INLINE-LINK-END.
+*Nutritional facts from [NutritionData.self.com](http://nutritiondata.self.com/facts/cereal-grains-and-pasta/5678/2).

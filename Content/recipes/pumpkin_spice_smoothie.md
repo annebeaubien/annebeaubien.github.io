@@ -39,7 +39,7 @@ Fall is here and nothing says, “Thanksgiving is coming” quite like pumpkin f
 **Instructions:**
 
 1. Place the **pumpkin puree**, **coconut water**, **dates**, **vanilla extract**, **cinnamon**, **ginger**, **clove**, **nutmeg** and **ice cubes** into a blender and blend on high until smooth.
-1. Top with a dollop of[https://wafflehearts.com/recipes/whipped_coconut_cream](Whipped Coconut Cream)
+1. Top with a dollop of[Whipped Coconut Cream](https://wafflehearts.com/recipes/whipped_coconut_cream)
 1. Drink. 
 1. Feel warm and cozy inside.
 

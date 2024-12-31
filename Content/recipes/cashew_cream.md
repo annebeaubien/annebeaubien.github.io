@@ -36,7 +36,7 @@ I recommend making cashew cream in small batches because it only lasts a 3-4 day
 
 **Instructions:**
 
-1. Measure out the cashews into a strainer and rinse in cold water. The reason you need to measure is because you use about equal parts water to cashews. I recommend starting with 1 cup cashews until you figure out how much is a good amount for you. This will yield about 1 1/2 cups cashew cream.
+1. Measure out the **cashews** into a strainer and rinse in cold water. The reason you need to measure is because you use about equal parts water to cashews. I recommend starting with 1 cup cashews until you figure out how much is a good amount for you. This will yield about 1 1/2 cups cashew cream.
 1. Place rinsed cashews into a container with a lid. Pour in enough cold water to cover the cashews, then put on the lid and place in the refrigerator over night (or before you go to work). They should soak for 6-10 hours. (If you have a powerful blender skip the soaking step and proceed to step 3).
 1. Drain the cashews, rinse again in cold water and place them into a blender. 
 1. Add 3/4 - 1 cup water. I recommend starting with less water then adding more if you need it. The amount you use will make the cream more or less thick. 

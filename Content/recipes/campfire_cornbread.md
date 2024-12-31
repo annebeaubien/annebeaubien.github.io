@@ -47,5 +47,5 @@ Polenta, corn meal and corn flour are all the same thing just ground to a differ
 1. Stir the dry mixture into the wet mixture and set aside.
 1. Heat 1 tablespoon olive oil in a cast iron skillet over medium heat. Swirl the skillet around so the oil coats the sides of the pan.
 1. Pour the cornbread mixture into the skillet, cover with aluminum foil and cook for 10 minutes. Then remove the skillet from the heat, uncover and cool for 10 minutes more. This step is really important because it allows the cornbread to finish cooking and absorb the rest of the liquid so that it doesn’t fall apart when you try to take it out of the pan.
-1. Cut and serve. This tastes great topped with a little [https://wafflehearts.com/recipes/tortilla_soup](Tortilla Soup). 
+1. Cut and serve. This tastes great topped with a little [Tortilla Soup](https://wafflehearts.com/recipes/tortilla_soup). 
 

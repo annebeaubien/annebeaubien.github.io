@@ -42,7 +42,7 @@ My own version of borscht is unique in that it uses pumpkin puree and Brussels s
 **Instructions:**
 
 1. Preheat the oven to 425ºF/220ºC.
-1. Wash the beet and wrap it in aluminum foil. Roast the beet for 1 hour, then remove from the oven and let it cool in the foil for 30 minutes. For more detailed instructions see my post on [https://wafflehearts.com/howtos/how_to_roast_beets](How To: Roast Beets) 
+1. Wash the beet and wrap it in aluminum foil. Roast the beet for 1 hour, then remove from the oven and let it cool in the foil for 30 minutes. For more detailed instructions see my post on [How To: Roast Beets](https://wafflehearts.com/howtos/how_to_roast_beets) 
 1. Meanwhile, wash, peel, and grate the potato and carrot using the large holes on a box grater. This side is often referred to as large-hole shredder and should produce strips that are about 1/4” wide and an inch long. Shred all of the potato and carrot then set aside in a large bowl.
 1. Wash the Brussels sprouts and remove the damaged outer leaves. Hold them at the root end and chop off the top into 1/4” ribbons. You want these to resemble the shredded potatoes and carrots in size. Add to potato bowl.
 1. Dice the onion. Add to potato bowl.
