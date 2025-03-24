@@ -5,7 +5,7 @@ date: 2013-05-04 06-43
 tags: Dairy Free, Vegetarian
 description: These sweet little treats have no added sugar, no oil or butter and are made with whole-wheat pastry flour. Not to mention they are chock full of raisins, nuts and carrots!
 ---
-Delicious carrot cake in the form in handy little bite-sized treats. You can make these as regular full-sized muffins but our favorite way to have them is as mini muffins! I’m not much of a baker which is why this recipe comes strait from the kitchen of my confection aficionado friend Kaja. She’s a wiz with the KitchenAid and mixed up this recipe as a sweet, healthy treat for her 1 year old. No added sugar means they are great for little kids, but big kids will love them too!
+Delicious carrot cake in the form in handy little bite-sized treats. You can make these as regular full-sized muffins but our favorite way to have them is as mini muffins! I’m not much of a baker which is why this recipe comes strait from the kitchen of my confection aficionado friend Kaja. She’s a wiz with the KitchenAid and mixed up this recipe as a sweet, healthy treat for her 1 year old.
 
 For the add-ins you can add up to 2 cups of your choice of raisins, coconut, nuts or chocolate chips. You can do any combination you like, that’s part of what makes this recipe great. Try 1 cup raisins, 1/2 cup walnuts and 1/2 cup chocolate chips for my favorite, or create your own combination.
 
@@ -31,7 +31,7 @@ For the add-ins you can add up to 2 cups of your choice of raisins, coconut, nut
 - 5 dried plums (lovingly known as prunes)
 - 3 pitted dates
 - 2 organic eggs
-- 1/4  cup mashed rip banana (1 medium banana)
+- 1/4  cup mashed ripe banana (1 medium banana)
 - 2 cups add-ins (optional: raisins, coconut, chopped nuts, dark chocolate chips)
 
 
@@ -43,7 +43,7 @@ For the add-ins you can add up to 2 cups of your choice of raisins, coconut, nut
 
 **Instructions:**
 
-1. Preheat the oven to 350ºF/175ºC. Spray cupcake tins with cooking spray or use paper liners. Try to use liners with wax or foil inside, or spray them with cooking spray. Since this recipe has almost no fat in it the muffins tend to stick to plain paper liners.
+1. Preheat the oven to 350ºF/175ºC. Grease cupcake tins with coconut oil or use paper liners. Try to use liners with wax or foil inside. Since this recipe has almost no fat in it the muffins tend to stick to plain paper liners.
 1. In a large bowl sift together the flour, baking soda, baking powder, salt, cinnamon, clove and nutmeg. 
 1. Place the carrots into a food processor and pulse until you get a medium to fine shredded mixture. Measure the amount of shredded carrots, you will need about 1 1/2 cups. Remove 1/2 of the carrots and stir them into the dry mixture in the large bowl, leave the other 1/2 in the blender.
 1. Add the applesauce, prunes, dates, eggs and mashed banana to the remaining carrots in the blender. Puree on high until smooth.
